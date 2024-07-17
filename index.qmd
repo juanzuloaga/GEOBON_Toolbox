@@ -1,0 +1,149 @@
+---
+title: "GEO BON Toolbox"
+subtitle: "Models, tools, approaches and more to support biodiversity conservation and ecosystem services assessments (Case study: the Hudson-James Bay Lowlands and northern landscapes in Canada)"
+author: Juan Zuloaga, Andrew Gonzalez
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+date-modified: last-modified
+editor: visual
+---
+
+## 1. Aim
+
+This toolbox provides a compilation of **models, tools , approaches and other means** for measuring, monitoring and assessing multiple facets of **biodiversity and ecosystem services**.
+
+It is aimed to help multiple partners in **planning and evaluating decisions** and policies in a region of interest.
+
+**We used as an example the GEO BON-Parks Canada initiative** to compile and synthesize knowledge from an array of models, tools, scenarios, assessments and observatories that can be used and/or adapted to understand biodiversity change and ecosystem services assessments in the **Hudson James Bay Lowlands (HJBL)**.
+
+We truly believe that this compilation can be **extended and used in other initiatives**.
+
+## 2. The conceptual framework
+
+We used the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) conceptual framework that provides guidance for the use of scenarios, models and tools for implementing regional and global assessments, designing policy and management strategies and addressing gaps in data and knowledge relevant to biodiversity and ecosystem services, among others.
+
+```{r , echo=FALSE, warning=FALSE, error=FALSE, message=FALSE, fig.align='center'}
+
+knitr::include_graphics("C:/GEOBON_Toolbox/Figures/IPBES_2016_Framework.png")
+
+
+```
+
+The Figure depicts two main elements of the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) conceptual framework: first (left) the role of models and scenarios in linking data and knowledge to policy and decisions making, and secondly (right) a simplified conceptualization of the relationships among components of nature and society. It shows how models and scenarios can mediate the flows of knowledge that guide action in different sectors of the economy for the conservation and sustainable use of biodiversity and ecosystem services and human well-being. Similar conceptualisations in other knowledge systems include 'living in harmony with nature' and 'Mother Earth', among others. The concepts of 'nature', 'nature's benefits to people' and 'good quality of life' are inclusive of all these worldviews.
+
+::: {.callout-note collapse="true"}
+## IPBES 2016 framework: Description of components (models, tools, scenarios, observatories, assessment).
+
+**Scenarios**
+
+"Scenarios capture different policy options being considered by decision makers, which are then translated by models into consequences for nature, nature's benefits to people and quality of life". ([IPBES 2016](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and)). For instance, intervention scenarios evaluate alternative policy or management, contributing to policy design and implementation.
+
+**Models**
+
+Models are used to understand how ecological processes interact and predict how biodiversity, ecosystem services and human wellbeing might change. Models formalize relationships among the elements of complex social-ecological systems. Models are qualitative or quantitative descriptions of key components of a system and relationships between those components. Most models (and most tools) have a very specific focus: the more quantitative and exact they are, the more focused the models/tools are on a specific section of the social-ecological system. "Models can provide a useful means of translating alternative scenarios of drivers or policy interventions into projected consequences for nature and nature's benefits to people" ([IPBES 2016](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and)). Species Distribution Models (SDMs) is an example of a model that uses spatial environmental data to make inferences about species' range limits and habitat suitability. Structural equation models can be used to understand the relationships between biodiversity and wellbeing.
+
+**Tools**
+
+A set of workflows and associated algorithms representing models and approaches that perform specific tasks and provide users with quantitative or qualitative outputs, usually spatially and temporally explicit. They work well when they are well maintained and updated regularly for an active user community. [InVEST](https://naturalcapitalproject.stanford.edu/software/invest) and [Bon in A Box](https://boninabox.geobon.org/) are examples of tools that can offer and streamline multiple models.
+
+**Weaving multiple-knowledge systems**
+
+Weaving multiple knowledge systems "refers to a process through which multiple types of knowledge are equitably brought together to enable the reciprocal exchange of understanding for mutual learning and application" ([Henri et al. 2021](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12057#:~:text='Weaving%20knowledge%20systems'%20refers%20to,et%20al.%2C%202017).)).
+
+**Observatories**
+
+Observatories are multi-partner and multi-actor organizations that gather, curate, and share data and knowledge about the changing state of ecological components of a geographic region. Observatories combine observation technologies to produce standardized variables and indicators of change that can guide investments in conservation action and resource management. [GEO BON](https://geobon.org/) and the [CreeGeo Hub](https://www.mushkegowuk.ca/informationservices) are examples of global and community lead observatories, respectively.
+
+**Assessment**
+
+Multiple partners working together proposed to explore plausible future scenarios to be tested with data and models. The assessment evaluates vulnerabilities and risks for a specific case, such as the HJBL, under different scenarios.
+:::
+
+The [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) report describes the various ways models are used to estimate or project changes in nature and nature's benefits (ecosystem services) arising from observed or hypothesized changes in drivers, for status-and-trend assessment (depicted in blue-green); plausible trajectories of drivers, for exploratory scenario analysis (depicted in red); possible policy interventions, for intervention scenario analysis (depicted in orange); or implemented policy interventions, for ex-post scenario analysis (depicted in purple).
+
+```{r , echo=FALSE, warning=FALSE, error=FALSE, message=FALSE, fig.align='center'}
+
+knitr::include_graphics("C:/GEOBON_Toolbox/Figures/Fig2. The role of models.png")
+
+
+```
+
+## 3. What is in the Toolbox?
+
+Integrating and operationalizing multiple elements from the Toolbox will allow partners working and living in a region evaluating alternative intervention policies and/or management strategies under multiple scenarios to provide relevant and strategic information for decision-making.
+
+::: {.callout-caution collapse="true"}
+## This Toolbox is our first approximation!
+
+We compiled and synthesized knowledge from an array of models, tools, scenarios, assessments and observatories that can be used and/or adapted to understand biodiversity change and ecosystem services assessments in a region.
+
+We acknowledge that there may be models and tools out there that escaped this review, while noting that there are some biophysical components and ecosystem services that were more explored and covered than others. So, **further efforts should focus on tackling these gaps and updating models and tools when possible**.
+:::
+
+::: panel-tabset
+### Planning
+
+Before you start digging into models, tools and other means, take your time to ask yourself **what do you want to accomplish and what you need for that**. In this section we provide a preliminary <a href='/Planning_form.html'>Planning Tool Form</a> to:
+
+&&&&&& **This section is under construction!**) &&&&
+
+-   Set your questions, objective, goals
+
+-   Select facets of biodiversity
+
+-   Select ecosystem services to assess
+
+-   Seletc physicial features you want to evaluate
+
+-   Select potential scenarios you might want to evaluate
+
+-   Select models and tools that might help you to respond your questtions and evaluate your scenarios.
+
+-   Select preliminary data sets you might want to include
+
+### Weaving & Observatories
+
+**Weaving Multiple Knowledge Systems:** Here we provide some fundamental ideas and approaches to help partners <a href='/Weaving.html'>weaving multiple knowledge systems</a> in this endeavor of protecting biodiversity and sustainable managing ecosystems services.
+
+**Observatories:** It includes global and regional <a href='/Observatories.html'>observatories</a> that can support multiple partners in the region. We encourage partners to identify potential local initiatives that can serve as a local hubs partnering with national and global observatories.
+
+### Scenarios
+
+We provide a review of two main <a href='/Scenarios.html'>Scenarios</a> approaches (top-down and bottom-up) that can help partners to describe and assess narratives of possible futures.
+
+### Models & Tools
+
+This is a compilation of <a href='/Models & Tools.html'>models and tools</a> to measure or assess some facet of biodiversity, physical features and ecosystem services. Again, it is a growing list and we expect contributions from the GEO BON community.
+
+**Data**: It includes mainly global and regional data sets that can support biodviersity and ecosystem services modeling and assessment. This is not an exhaustive list of data sets and we expect it will grow with support of the GEO BON community. We also expect national and local partners to contribute and help growing this section. Knowing what type of data and where these data sets are available will facilitate the whole process.
+
+**Biophysical features (BFs)**
+
+-   [BF-1: Biodiversity](BF-1_Biodiversity.html).
+
+-   [BF-2: Quantifying carbon storage](BF-2_Quantify%20carbon%20storage.html).
+
+-   [BF-3: Permafrost](BF-3_Permafrost.html).
+
+-   [BF-4: Rivers & Basins](BF-4_Rivers.html).
+
+-   [BF-5: Wetlands](BF-5_Wetlands.html).
+
+-   BF-6: Lakes.
+
+**Ecosystem services (ESs)**
+
+-   ES-1: Ecosystem services.
+
+**Tools for spatial prioritization (Tools-SP)**
+
+### Approaches
+
+Biodiversity conservation and ecosystem services management requires the implementation of multiple approaches to achieve desired goals and targets. However, the integration of multiple models and multiple components from social, economic and biophysical system is a necessity to understand the complexity, interactions and feed backs.
+
+These approaches span from species-specific and area-based approaches to multi-objective and scenario assessments.
+:::
