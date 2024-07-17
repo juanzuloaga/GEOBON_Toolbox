@@ -141,6 +141,8 @@ This is a compilation of <a href='/Models & Tools.html'>models and tools</a> to 
 
 **Tools for spatial prioritization (Tools-SP)**
 
+-   SP-1: Spatial prioritization
+
 ### Approaches
 
 Biodiversity conservation and ecosystem services management requires the implementation of multiple approaches to achieve desired goals and targets. However, the integration of multiple models and multiple components from social, economic and biophysical system is a necessity to understand the complexity, interactions and feed backs.

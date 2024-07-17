@@ -1,0 +1,38 @@
+---
+title: "Planning, assessments and Decisions"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+**In construction!**
+
+## 1. Identifying partners
+
+## 2. Identifying main questions, goals and/or scenarios
+
+-   Identify priority areas for biodiversity conservation
+
+-   Evaluate multiple policy or management options
+
+-   Monitor status and trends in biodiversity
+
+## 3. What is the purpose of using the models?
+
+**Biodiversity monitoring**
+
+-   **Data observation:** models are needed that can account for varying sample intensities and methods in order to assess uncertainties accurately. 
+
+-   **Building indicators:** models are used to aggregate and differentially weight certain observations into aggregated diversity indicators, especially for use in monitoring trends.
+
+-   **Trend detection:** usually, statistical models that accurately account for propagated errors are applied to evaluate trends of biodiversity change through time. 
+
+-   **Attribution:** for attributing biodiversity change to specific drivers, models are  required that can represent expected biodiversity patterns with and without focal drivers. These models might take the form of statistical models or mechanistic models parameterized for key processes.
+
+-   **Projection:** biodiversity projections can evaluate the impact of different future social and economic scenarios on future biodiversity -- for instance, how different land use and climate change scenarios might affect future biodiversity loss (e.g., [Urban et al. 2022](https://academic.oup.com/bioscience/article/72/1/91/6403637?login=false#)).
+
+-   **Mitigation:** projection models can be used to test mitigation options via simulation and also incorporate additional social costs in prioritising mitigation options. 

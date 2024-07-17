@@ -1,0 +1,569 @@
+---
+title: "Approaches"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+## 1. Introduction
+
+Biodiversity conservation and ecosystem services management requires the implementation of multiple approaches to achieve desired goals and targets. However, the integration of multiple models and multiple components from social, economic and biophysical system is a necessity to understand the complexity, interactions and feed backs.
+
+These approaches span from species-specific and area-based approaches to multi-objective and scenario assessments.
+
+## 2. Multi-objective approaches
+
+Multi-objective approaches are designed to maximize co-benefits and minimize trade-offs among objectives in biodiversity conservation, ecosystem services, and socio economic initiatives. Balancing multiple management objectives as climate change transforms ecosystems is and will be a challenge because baseline conditions may no longer exist ([Siegel et al. 2023](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00297-5?dgcid=raven_jbs_etoc_email)).
+
+Preliminary studies have identified areas of importance for both biodiversity conservation and multiple ecosystem services (see [Robertson et al. 2017](https://static1.squarespace.com/static/57e007452e69cf9a7af0a033/t/5b51dd1203ce64a352395576/1532091672029/Identifying+areas+important+for+biodiversity+and+ecosystem+services+in+Canada.pdf); [Mitchell et al. 2021](https://iopscience.iop.org/article/10.1088/1748-9326/abc121/meta)); others have integrated ecosystem services within spatial biodiversity conservation prioritization ([Ramel et al. 2020](https://www.sciencedirect.com/science/article/pii/S2212041620301285)), and others have used multi-objective optimization methods to design marine protected area networks ([Fox et al. 2019](https://www.frontiersin.org/articles/10.3389/fmars.2019.00017/full)) or used natural vegetation retention as a proxy to achieve multiple targets (e.g., biodiversity, carbon storage, freshwater quality and soil maintenance;  [Simmonds et al. 2022](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.14040)) agricultural allocation ([Kaim et al 2018](https://www.sciencedirect.com/science/article/abs/pii/S1364815217309970)) and penalizing infeasible solutions ([Strauch et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S1364815218311204)). Similarly, spatially explicit scenarios of expected changes in biodiversity and ecosystem services have recently been documented through several studies ([Newbold 2018](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.0792), [Chaudhary& Moores 2018](https://www.mdpi.com/2071-1050/10/8/2764)) and case studies ([biodiversa+](https://www.biodiversa.eu/2018/10/07/2017-2018-joint-call/)).
+
+There is an opportunity to apply these approaches to the HJBL, in a way that weaves multiple knowledge systems into scenarios adapted to the possible biophysical and biocultural futures of the region.
+
+The Convention on Biological Diversity ([CBD](https://www.cbd.int/climate/intro.shtml)) calls for actions to integrate biodiversity conservation and climate change strategies, as follows:
+
+"There is ample evidence that climate change affects biodiversity. Continued climate change is having predominantly adverse and often irreversible impacts on many ecosystems and their services, with significant negative social, cultural and economic consequences. However, the links between biodiversity and climate change flow both ways. Conserving natural terrestrial, freshwater and marine ecosystems and restoring degraded ecosystems (e.g., [Obeng et al. 2022](https://www.frontiersin.org/articles/10.3389/fenvs.2022.942788/full#B69)), including their genetic and species diversity, is essential for the overall goals of both the Convention on Biological Diversity and the United Nations Framework Convention on Climate Change because ecosystems play a key role in the global carbon cycle and in adapting to climate change, while also providing a wide range of ecosystem services that are essential for human well-being and the achievement of the Sustainable Development Goals. Ecosystem-based approaches to climate change adaptation, which integrates the use of biodiversity and ecosystem services into an overall adaptation strategy, can be cost-effective and generate social, economic and cultural co-benefits and contribute to the conservation of biodiversity." ([CBD](https://www.cbd.int/climate/intro.shtml)).
+
+### 2.1. Carbon storage and biodiversity
+
+Multiple approaches for identifying priority areas for biodiversity and carbon storage have been implemented. It starts from overlapping maps of biodiversity metrics and carbon storage or using prioritization tools to more complex assessments using ecosystem services tools and integrating multiple models aimed to identify common areas for these two components. The rationale here is that protecting carbon-rich areas that provide a global climate stability service, will protect biodiversity (and other physical processes) in the region that in turn can buffer ecosystem functioning against the effects of multiple drivers of change. Here, we summarized some studies evaluating biodiversity and carbon storage co-benefits under the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) conceptual framework.
+
+::: panel-tabset
+## Overlapping maps and prioritizing co-benefits
+
+Co-benefits of biodiversity and carbon storage have been recently explored by [Soto-Navarro et al. (2020)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0128), [Dinerstein et al. (2020)](https://www.science.org/doi/10.1126/sciadv.abb2824), [Finkelstein et al. (2023)](https://www.facetsjournal.com/doi/10.1139/facets-2022-0126) and [Zhu et al. (2021)](https://www.science.org/doi/10.1126/sciadv.abe4261). They basically overlap maps of carbon-rich areas and biodiversity maps derived from some metrics to identify those areas that might offer co-benefits (see **Case study** below) to achieve 30% of protected areas by 2030. [Zhu et al. (2021)](https://www.science.org/doi/10.1126/sciadv.abe4261) went a little further and used the Zonation tool to identify priority areas across scales (i.e., Asia, India, and ecological regions). **The Figure below** shows these exploratory studies within the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) conceptual framework (they used limited elements from the full set of potential models and tools available in the Toolbox).
+
+![Multi-objective approach used by [Soto-Navarro et al. (2020)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0128), [Dinerstein et al. (2020)](https://www.science.org/doi/10.1126/sciadv.abb2824), [Finkelstein et al. (2023)](https://www.facetsjournal.com/doi/10.1139/facets-2022-0126) and [Zhu et al. (2021)](https://www.science.org/doi/10.1126/sciadv.abe4261) to identified areas offering co-benefits between biodiversity and carbon storage.](Figures/overlapping.png){fig-align="center"}
+
+::: {.callout-tip collapse="true"}
+## Overlap maps of carbon-rich and biodiversity-important areas maps
+
+**Where**
+
+Global, Asia, Ontario (Canada)
+
+**Aim**
+
+Multiple studies identifying priority areas for biodiversity conservation planning in carbon-rich areas.
+
+**Description**
+
+[Soto-Navarro et al. (2020)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0128) evaluated the global spatial overlap of biodiversity and carbon, using five biodiversity metrics summarized in two composite biodiversity indicators that incorporate a vulnerability component (see [Brooks et al. 2006](http://www.extinction-workshop.psu.edu/pubs/brooks.pdf)) and multiple measurements of carbon (belowground, aboveground and soils organic content).  
+
+[Dinerstein et al. (2020)](https://www.science.org/doi/10.1126/sciadv.abb2824), uses 11 spatial layers to identify global terrestrial areas to protect biodiversity and provide climate stabilization by securing terrestrial carbon stocks. They called this approach the Global Safety Net (GSN), using the Global for Nature framework as "a time-bound, science-based plan to be paired with the Paris Climate Agreement to save the diversity and abundance of life on Earth" ([Dinerstein et al. 2019](https://www.science.org/doi/full/10.1126/sciadv.aaw2869)).
+
+[Finkelstein et al. (2023)](https://www.facetsjournal.com/doi/10.1139/facets-2022-0126) applied the same approach in Ontario (Canada) and found that "when region-specific data are incorporated, Ontario is even more significant than what is shown in the GSN, especially in terms of carbon stocks in forested and open peatlands."
+
+[Zhu et al. (2021)](https://www.science.org/doi/10.1126/sciadv.abe4261), addressed this issue of spatial scales in Asia, arguing that a "framework should be capable of identifying priorities at each scale (regional, biome, and national)". They proposed "a stepwise approach based on scalable priorities at regional, biome, and national levels that can complement potential Convention on Biological Diversity targets of protecting 30% land in the post-2020 global biodiversity framework." 
+
+**Goals/targets (biodiversity conservation/human well-being):**
+
+2030 Agenda for the Sustainable Development Goals
+
+Post-2020 global biodiversity framework, CBD
+
+United Nations (UN) Framework Convention on Climate Change.
+
+**Limitations:**
+
+Biodiversity metrics vary in each approach, and they might not include all facets of biodiversity
+
+These studies do not consider the full [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) framework.
+
+**Strengths:**
+
+Multi-objective, multi-scale, and spatially explicit approaches
+
+**Actions taken or suggested:**
+
+\- "Funding mechanisms are needed to ensure such targets to support biodiversity-carbon mutually beneficial solutions" ([Zhu et al. 2021](https://www.science.org/doi/10.1126/sciadv.abe4261)).
+
+\- "There is an urgent need to identify synergies for biodiversity conservation and carbon as a basis for action" ([Zhu et al. 2021](https://www.science.org/doi/10.1126/sciadv.abe4261)).
+
+**Impacts/results (potential and/or measured):**
+
++---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reference                                                                                   | Findings/potential impact                                                                                                                                                                                 |
++---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Soto-Navarro et al. (2020)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0128) | "There is 38 and 5% overlap in carbon and biodiversity hotspots, for proactive and reactive conservation, respectively".                                                                                  |
+|                                                                                             |                                                                                                                                                                                                           |
+|                                                                                             | "Only around 12 and 21% of these proactive and reactive hotspot areas, respectively, are formally protected."                                                                                             |
++---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Dinerstein et al. (2020)](https://www.science.org/doi/10.1126/sciadv.abb2824)              | "...35.3% of land area is needed to conserve additional sites of particular importance for biodiversity and stabilize the climate."                                                                       |
++---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Zhu et al. (2021)](https://www.science.org/doi/10.1126/sciadv.abe4261)                     | 41% of priorities overlap between all three scales.                                                                                                                                                       |
++---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Mori et al. (2021)](https://www.nature.com/articles/s41558-021-01062-1)                    | Explicit focus on global forest biodiversity-carbon feedbacks under climate change. Mitigating climate change protects forest diversity which in turn maintains productivity and carbon in the ecosystem. |
++---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Overlapping maps have been used also in India to prioritize areas for habitats, biodiversity, ecosystem services to "guide future environmental planning and policy to help meet the twin goals of biodiversity conservation and sustainable development in a strategically important country for Asia" ([Srivathsa et al. 2023](https://www.nature.com/articles/s41893-023-01063-2?fromPaywallRec=false)).
+:::
+
+::: {.callout-tip collapse="true"}
+## Multi-objective and gap analysis
+
+Other approaches are proposed by [Martin et al. (2022)](https://www.nature.com/articles/s41598-022-15274-8#Tab1) and [Johnson et al. (2022)](https://www.nature.com/articles/s41598-022-21476-x), using multi-objective optimization and gap analysis. For instance, [Martin et al. (2022)](https://www.nature.com/articles/s41598-022-15274-8#Tab1) showed that using a multi-objective optimization approach to simultaneously protect important areas for caribou (see [Canadian Geographic maps](https://canadiangeographic.ca/articles/mapping-the-decline-of-canadas-caribou/), [Arctic Caribou](https://arctic-caribou.com/resources/#maps)), other species at risk, climate refugia and carbon storage in  the boreal forest across Canada, produced a reasonably strong outcome compared with single objectives.They used a multi-objective linear programming problem to simultaneously address all six conservation objectives, formulated as a "maximin" problem. This maximin problem seeks to identify the set of planning units that maximize the minimum summed conservation value of priority areas for the set of conservation objectives, when selecting at most 19.5% of the boreal caribou distribution for protection" ([Martin et al. (2022](https://www.nature.com/articles/s41598-022-15274-8#Tab1)).
+
+\
+A gap analysis allows for the identification of elements that are poorly represented in a conservation network by comparing the network's current state to an expected or desired state. [Johnson et al. (2022)](https://www.nature.com/articles/s41598-022-21476-x) used a gap analysis "to evaluate the overlap among hotspot types and how well hotspots were represented in Canada's protected and conserved areas network". They "identified hotspots of high conservation value within the distribution of boreal caribou based on: (1) three measures of biodiversity for at risk species (species richness, unique species and taxonomic diversity); (2) climate refugia or areas forecasted to remain unchanged under climate change; and, (3) areas of high soil carbon that could add to Canada's greenhouse gas emissions if released into the atmosphere" [Johnson et al. (2022)](https://www.nature.com/articles/s41598-022-21476-x).
+:::
+
+> In general, all these studies show that:
+>
+> -   Overlapping areas of high and low value is a good exploratory approach to see what are the main priority areas in a region. One advantage is that this approach can be implemented with available methods and data sets might be available for the region.
+>
+> -   The location and importance of priority areas might be influenced by the specific biodiversity metrics included in the analysis.
+>
+> -   There is low to moderate overlap between priority areas for biodiversity and carbon storage. It depends on the biodiversity metric used (e.g., species richness vs. areas of high intactness) and it varies among ecoregions.
+>
+> -   Proactive and reactive conservation approaches should be evaluated because they can identify different priority areas.
+>
+> -   Additional priority areas might emerge when performing analysis across spatial scales (e.g., from ecoregion to regional and national).
+>
+> -   Using prioritization tools instead of just overlapping maps might improve the identification of priority areas.
+>
+> -   Adding local data sets to the analysis can improve the identification of priority areas and their relative spatial value.
+>
+> -   These studies present a snapshot in time of priority areas for biodiversity and carbon storage (further analysis should consider temporal scales).
+>
+> -   Multi-objective linear program seems to provide a more accurate approach to identify priority areas based on multiple conservation objectives.
+>
+> -   Multi-objective outcomes seem to be better than single outcomes.
+>
+> -   Analyses show that priority areas from multi-objective outcomes are underrepresented in current analyses of protected area networks, highlighting  opportunities to extend these co-benefits to the entire network.
+>
+> -   Scenario assessment is not considered in these approaches.
+
+## Studies using Ecosystem Services Assessment Tools
+
+Ecosystem services tools such as [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)™, [ARIES](https://aries.integratedmodelling.org/) and [Co\$tingNature](https://www.policysupport.org/costingnature) are available to identify nature's contribution to people, assess synergies (co benefits among ESs) and quantify trade-offs among multiple ecosystem services (in particular for carbon storage-soil pools). These tools can integrate complex interactions and beneficiaries ([Thierry et al. 2021](https://www.facetsjournal.com/doi/10.1139/facets-2020-0116)) under various scenarios (e.g., climate change, land cover change, urban growth, management interventions, etc; see for instance: [Brown et al. 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122721)).
+
+These tools offer an interface and functionality to run some analyses using custom models and spatially-explicit maps as inputs to generate spatially-explicit outputs. For instance, [Land cover and land use map (LCLU)](https://storage.googleapis.com/releases.naturalcapitalproject.org/invest-userguide/latest/en/data_sources.html#lulc) along with stocks in [carbon pools](https://storage.googleapis.com/releases.naturalcapitalproject.org/invest-userguide/latest/en/data_sources.html#carbon-pools) (aboveground biomass, belowground biomass, soil, and dead organic matter) is an input for the carbon storage module.  
+
+For instance, [Mulligan et al. (2020)](https://www.sciencedirect.com/science/article/pii/S0034425720300407) (see **Case study** below) used [Co\$tingNature](https://www.policysupport.org/costingnature) to examine nature's contributions to Sustainable Development Goals (SDG 6s: drinking water, sanitation and hygiene and functioning of water-related ecosystems) in Madagascar and the Volta basin in Burkina Faso.
+
+Also, multiple scenarios, derived from land use and climate change models, can be modeled in these tools. However, some additional models are necessary to forecast land use change and climate change. For instance, [Li et al. (2023)](https://peerj.com/articles/15285/) (see **Case study** below) used  [InVEST](https://naturalcapitalproject.stanford.edu/software/invest) tool and Patch-generating Land Use Simulation (PLUS) model (to create inputs for the inputs for the ES tools) to evaluate the effect of multiple scenarios on biodiversity and ecosystem services. [Tao et al. (2023)](https://www.frontiersin.org/articles/10.3389/fevo.2023.1102015/full#ref35) integrated the patch-generating land use simulation (PLUS) model and integrated valuation of ecosystem services and trade-offs (InVEST) model to simulate and assess future LCLU and ecosystem carbon storage in the Nanjing metropolitan circle in 2030 under four scenarios. They showed that collaborative development can balance economic development and ecological protection.
+
+::: {.callout-tip collapse="true"}
+## ARIES
+
+**Where:**
+
+[India](https://seea.un.org/sites/seea.un.org/files/NCAVES_reports_briefs/ncaves_india_report_jan2116112101605301612372985451.pdf)
+
+[Mexico](https://seea.un.org/sites/seea.un.org/files/images/Mexico/ncaves_-_mexico_-_country_report_-_final.pdf)
+
+[South Africa](https://seea.un.org/content/ecosystem-accounts-south-africa-report-ncaves-project)
+
+**Aims:**
+
+Natural Capital Accounting and Valuation of Ecosystem Services
+
+**Description:**
+
+The UN project  "Natural Capital Accounting and Valuation of Ecosystem Services" ([NCAVES](https://seea.un.org/home/Natural-Capital-Accounting-Project)) launched in 2017 has initiated pilot testing SEEA Ecosystem Accounting (SEEA EA) in five participating partner countries, namely Brazil, China, India, Mexico and South Africa (see [NCAVES](https://seea.un.org/home/Natural-Capital-Accounting-Project) for countries' findings). [NCAVES](https://seea.un.org/home/Natural-Capital-Accounting-Project) is "funded by the European Union via a [Partnership Instrument](https://ec.europa.eu/fpi/index_en) and has been jointly implemented by the United Nations Statistics Division and  the United Nations Environment Programme, in collaboration with the [Convention on Biological Diversity](https://www.cbd.int/)(CBD)".
+
+In this analysis we are interested in findings related to determining the spatial distribution of carbon stored in different pools and their annual value per year.
+
+**Goals/targets (biodiversity conservation/human well-being):**
+
+Sustainable Development Goals (SDGs)
+
+The Convention on Biological Diversity (CBD)
+
+National indicators
+
+**Limitations:**
+
+\- Estimations of multiple carbon pools come from different sources which in turn might have different methods to calculate carbon metrics.
+
+\- Land cover maps also have different sources (tailored for each country).
+
+\- India: reported using two platforms: ARIES and InVEST (there is no explicit comparison between outputs from these two platforms).
+
+\- Mexico and South Africa: it is not clear if they use ARIES (and InVEST).
+
+\- China does not include carbon storage in its report but it is the only one that includes scenario analysis for other ecosystem services (in particular the effect of climate change on land cover extent).
+
+\- South Africa: maps of carbon storage are not presented and calculations are presented by biomes (it is not clear that multiple carbon pools were considered).
+
+\- Difficult to compare the value (units) of carbon stored between countries and different spatial aggregation methods among countries.
+
+**Strengths:**
+
+\- They present estimates of multiple ecosystem services accounts and SDGs indicators for multiple estates.
+
+\- Carbon storage is aggregated and presented using different administrative boundaries: ecoregions, land cover classes.
+
+**Actions taken or suggested:**
+
+\- They argue that they can inform Sustainable Development Goals by using ecosystems accounts SEEA framework and tools (ARIES) for calculating SDGs targets' indicators. 
+:::
+
+::: {.callout-tip collapse="true"}
+## Co\$tingNature
+
+**Where:**
+
+Madagascar and Volta Basin (spanning six countries in Africa) ([Mulligan et al. 2020](https://www.sciencedirect.com/science/article/pii/S0034425720300407))
+
+**Aim:** Examine nature's contribution to SDG 6s (drinking water, sanitation and hygiene as well as functioning of water-related ecosystems), co-benefits with other SGDs (biodiversity and carbon storage) and trade-offs (agriculture).
+
+**Description:**
+
+"We use remotely- sensed and globally available datasets alongside the spatial ecosystem services assessment tools, WaterWorld and Co\$tingNature (see [www.policysupport.org](http://www.policysupport.org/)). With these we identify priority areas for sustainable management to realise SDG 6 (water) at the country scale for Madagascar and the basin scale for the transboundary Volta river basin. The [spatial mapping](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/spatial-mapping) of SDG provision by nature has the potential to support the implementation of SDG strategies through prioritising areas for sustainable land management and conservation of ecosystem services and also to inform the further development of the SDG concept itself as well as for their intrinsic value." ([Mulligan et al. 2020](https://www.sciencedirect.com/science/article/pii/S0034425720300407)).
+
+**Goals/targets (biodiversity conservation/human well-being):**
+
+Target 6.1: "By 2030, achieve universal and equitable access to safe and affordable drinking water for all".
+
+Target 6.2: "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations".
+
+Target 6.6: "By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes".
+
+**Limitations:**
+
+Biodiversity is reduced to one metric (endemism)
+
+Some key challenges identified by the study ([Mulligan et al. 2020](https://www.sciencedirect.com/science/article/pii/S0034425720300407)):
+
+\- "Significant differences in magnitude and spatial pattern between different datasets available for the same variable".
+
+\- "Lack of detailed validation of some global EO products for all contexts, which creates challenges in understanding which metrics are the most robust or accurate for a given variable in specific geographical contexts".
+
+\- "Less than global extent even of so-called global product".
+
+\- "Differences in production year and thus snapshot time for different variables or different datasets for the same variable".
+
+\- "Differences in grid cell resolution that must be resolved for raster analysis". 
+
+\- "Lack of [seasonality](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/seasonality) or treatment of temporal variability".
+
+\- "The need to ensure consistency between different input layers"
+
+\- "Time lag between image acquisition and generation of available global EO products" .
+
+\- "Data sometimes have an associated license cost or restrictive licensing".
+
+**Strengths:**
+
+Spatially explicit Nature's Contribution to SDGs, co-benefits and trade-offs
+
+Medium spatial resolution appropriate for national scale studies
+
+**Actions taken or suggested:**
+
+"In general our results highlight the co-benefits of sustainably managing nature's contribution to SDG 6, for protecting forest cover (SDG target 15.2) and thus carbon storage and sequestration as a contribution to the Paris climate agreement and nationally determined contributions (SDG 13) as well as biodiversity conservation (SDG target 15.5)".([Mulligan et al. 2020](https://www.sciencedirect.com/science/article/pii/S0034425720300407)).
+:::
+
+> In general these studies show that:
+>
+> Ecosystem Assessment Tools offer a sophisticated functionality to perform exploratory analyses using data sets already available within these tools. However, the trade off is a simplification of the processes they model. For example, carbon models are simple representations of carbon storage dynamics matching land cover classes with carbon pools. 
+>
+> These tools can provide spatial-explicit assessment of Nature's contribution to people (e.g., evaluating the contribution to SDGs) and trade-offs among ecosystem services.
+>
+> Usually models included in these tools (InVEST, ARIES, and Co\$tingNature , and others) are coupled with other models to generate inputs for the tool. For instance, [Liu et al. 2023](https://www.sciencedirect.com/science/article/pii/S1470160X23010683#b0075) combines the strengths of three models (GMOP-PLUS-InVEST) to enhance the quantitative prediction and spatial prioritization output when evaluating the alteration of ecosystem services under multiple scenarios, as follow:
+>
+> -   Simulation of quantitative Land-Cover and Land-Use (LCLU) demand in 2035 under different scenarios, using the gray multi-objective programming model (GMOP model, [Wang et al. 2018](https://www.sciencedirect.com/science/article/abs/pii/S1470160X18304886)).
+>
+> -   Then, the amount of future LCLU is allocated to a reasonable location according to spatial needs using the patch-generating land use simulation (PLUS model, it is based on cellular automata see [Liang et al. 2021](https://www.sciencedirect.com/science/article/abs/pii/S0198971520303021)). 
+>
+> -   Finally, a module (e.g., Water Yield) of the InVEST model can be used to evaluate the alterations in water yield under different scenarios.
+>
+> Similarly, [Zhuet al. (2022)](https://www.mdpi.com/2071-1050/14/20/13604) have coupled GMOP and PLUS models to simulate ecosystem service value and [Gao et al. (2023)](https://www.mdpi.com/2073-445X/12/9/1665) coupled System Dynamics models (SDs), GMOP and InVEST to inform ecosystem services accounting and decision making in China. [Kramer et al. (2023](https://link.springer.com/article/10.1007/s11625-023-01341-0)) also showed the importance of connecting existing models to advance in freshwater modeling and scenario developing.
+>
+> An alternative way to reduce uncertainty in the predictions of individual models is to create model ensembles of ecosystem services. Reducing the "uncertainty gap"  [Willcock et al. 2019](https://link.springer.com/article/10.1007/s10021-019-00380-y)) in model predictions is needed to better inform decision making ([Hooftman et al. 2022](https://www.sciencedirect.com/science/article/abs/pii/S221204162100156X)) and achieve national and global targets. "Ensembles of models are hypothesised to have enhanced accuracy over individual models due to fewer overall errors in prediction by reducing the influence of idiosyncratic outcomes from single models" ([Hooftman et al. 2022](https://www.sciencedirect.com/science/article/abs/pii/S221204162100156X)). For instance, [Willcock et al. (2019)](https://link.springer.com/article/10.1007/s10021-019-00380-y) shows that ensembles of multiple models of ecosystem services at global scales were 2 to 14% more accurate than individual models.  Similar results were found by [Hooftman et al. 2022](https://www.sciencedirect.com/science/article/abs/pii/S221204162100156X) at national scales (5 to 17% higher accuracy for ensemble models compared to individual ones). 
+:::
+
+### 2.2. Carbon storage, biodiversity and water
+
+Multicriteria models are used to prioritize the selection of sites for conservation. For example,[Jung et al. (2021)](https://www.nature.com/articles/s41559-021-01528-7) ranked terrestrial conservation priorities globally with a joint optimization that minimized the number of threatened species, maximized carbon retention and water quality regulation. They found that "selecting the top-ranked 30% and 50% of terrestrial land area would conserve respectively 60.7% and 85.3% of the estimated total carbon stock and 66% and 89.8% of all clean water, in addition to meeting conservation targets for 57.9% and 79% of all species considered" ([Jung et al. 2021](https://www.nature.com/articles/s41559-021-01528-7)). Similarly, [Martin et al. (2022)](https://www.nature.com/articles/s41598-022-15274-8#Tab1) used linear programming ([Beyer et al. 2016](https://www.sciencedirect.com/science/article/pii/S0304380016300217?casa_token=D7Sqeh4qr9EAAAAA:DKAAyTO5VFvFsMYGGY6lJXIQo6rbWHTWjlhCLk_POcXU9NexwN-d3XgZ6lvcH4zsiaETqMxBrz4)) to rank sites for dual protection (i.e., Caribou and carbon storage). [Conlisk et al. (2023)](https://www.pointblue.org/wp-content/uploads/2023/03/Conlisk-et-al.-2023-Evidence-for-the-Multiple-Benefits-of-Wetland-Conservation-in-North-America-1.pdf) also show potential benefits of wetland conservation in North America, including: water supply regulation, flood risk mitigation, water quality, biodiversity support, carbon storage, among others.More about water provision or a separate heading?
+
+### **2.3. Climate change refugia and biodiversity in carbon-rich areas**
+
+The structure and function of ecosystems and associated biota are expected to change and turnover in the coming decades. Some species will shift their spatial distributions, others will adapt in response to novel climates, while others will suffer extinction (e.g., [Gillings et al. 2014](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12823), [Chen et al. 2011](https://www.science.org/doi/abs/10.1126/science.1206432)). Climate change refugia--"areas relatively buffered from contemporary climate change over time that enable persistence of valued physical, ecological, and socio-cultural resources ([Morelli et al. 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159909))--will offer opportunities for species to survive and act as"slow lanes" for dispersal rather than areas of stasis ([Morelli et al. 2020](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.2189)).
+
+Multiple studies have identified climate refugia ([Michalak et al. 2018](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13130)) under multiple climatic scenarios ([Stralberg et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12356), [AdaptWEST](https://adaptwest.databasin.org/pages/climate-resilience-data-explorer/)) for various taxonomic groups in North America ([Stralberg et al. 2017](https://ace-lab.ca/assets_b/Stralberg_et_al-2018-Global_Ecology_and_Biogeography.pdf)). Conservation strategies ([Belote et al. 2017](https://academic.oup.com/bioscience/article/67/6/494/3102936?login=false), [Ranius et al. 2023](https://link.springer.com/article/10.1007/s13280-022-01779-z)) to inform conservation planning ([Carroll et al. 2017](https://onlinelibrary.wiley.com/doi/10.1111/gcb.13679), [Stralberg et al. 2020](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12712), [Stralberg et al. 2020](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2188), [Droboski et al. 2021](https://www.nature.com/articles/s43247-021-00270-z)) and the implications for configurating protected area networks ([Lawler et al. 2020](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0117)) under climate change scenarios ([Buenafe et al. 2023](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2852)). Protected areas networks should include how climate will change in the future and vary across regions to effectively protect biodiversity, in particular for those species that might shift their ranges to cooler climates ([Carroll & Ray 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15645)). 
+
+Methods to identify climate refugia include:
+
+-   Species Distribution Models, using many species.
+
+-   Climate velocity metrics (forward and backward velocities)
+
+-   Generation refugia index, using various approaches
+
+-   Compositional-turnover modelling ([Reside et al. 2013](https://nccarf.edu.au/wp-content/uploads/2019/03/Reside_2013_Climate_change_refugia_for_terrestrial_biodiversity.pdf), [ADAPTNRM](https://adaptnrm.csiro.au/biodiversity-options/))
+
+[Stralberg et al. (2020)](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12712) developed a zonation conservation ranking map for North America designed to identify priority areas, including climatic macro-refugia for trees and birds (e.g., [Stralberg et al. 2018](https://ace-lab.ca/assets_b/Stralberg_et_al-2018-Global_Ecology_and_Biogeography.pdf)), microrefugia (using environmental heterogeneity surrogates, that is topography, e.g., [Ackerly et al. 2010](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-4642.2010.00654.x)) and climate corridors ([Carroll et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14373), [Anderson et al. 2023](https://www.pnas.org/doi/10.1073/pnas.2204434119)). Although, "commonalities between ecosystem carbon and either current biodiversity or refugia are often weak" , these overlapping areas are worth protecting ([Carroll and Ray 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15645)). 
+
+The HJBL and its peatlands (characterized by high surface soil moisture and water tables) is an interesting case because: "the ecological inertia (resistance to external fluctuations) contained in some boreal ecosystems may provide more extensive buffering against climate change, resulting in"ecosystem-protected" refugia ([Stralberg et al. 2020](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2188)).
+
+### 2.4. Climate, biodiversity and carbon storage
+
+[Suraci et al. (2023)](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4490) developed various spatially explicit indices to incorporate carbon storage, climate and biodiversity and applied them in the US. The climate index combines total carbon storage, climate accessibility, and climate stability. The biodiversity index combines: species richness, ecological integrity, and ecological connectivity. They integrate all of them into a combined index. "We found that existing PAs in the United States have relatively low overlap with the highest conservation value lands, regardless of the index used (10%--13% in CONUS, 27%--34% in Alaska), suggesting limited effectiveness of current protections but substantial opportunity for expanding conservation into high-value, unprotected areas. In unprotected landscapes, the highest value lands for addressing climate change generally diverged from those identified as most important for protecting biodiversity (22%--38% overlap, depending on index and geography). Our combined index reconciled these spatial trade-offs through high overlap with both the climate and biodiversity indices (66%--72%)" ([Suraci et al. 2023](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4490)).
+
+### 2.5. Biodiversity and traditional wildfoods
+
+Indigenous Peoples in their territories are facing challenges to their food sovereignty and food security (as reported for many countries; e.g., [Swiderska et al. 2022](https://www.mdpi.com/2071-1050/14/18/11311)). This is a critical biodiversity issue; it is estimated that 50,000 wild species are used by billions of people around the world ([Fromentin et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0959378023000584?via%3Dihub)). The broader definition of food security, goes beyond mere access to food (local economy, water quality and quantity), encompasses health indicators, nutrition, traditional hunting costs, and the broader subsistence economy. It sheds light on the intricate connections between food security and diverse aspects of community life. And, Indigenous Peoples in Canada also rely on wildlife for traditional food and multiple other uses (e.g., [Kuhnlein & Turner 1991](https://www.fao.org/3/ai215e/ai215e.pdf)).
+
+Food security relates to the fundamental human right of access to food ([United Nations 1948](https://www.un.org/en/about-us/universal-declaration-of-human-rights)). Specifically, food security is achieved when a reliable supply of food is available to people in a region ([Mbow et al. 2019](https://policycommons.net/artifacts/458644/food-security/1431487/)). In historically ostracized and remote communities, food security is a critical issue ([Salomon et al., 2020](http://coastalvoices.net/books-articles-reports)). The impact of colonial practices on indigenous people around the world has resulted in many communities losing their food sovereignty and security ([Whyte, 2018](https://academic.oup.com/edited-volume/27989/chapter-abstract/211700194?redirectedFrom=fulltext), [Swiderska et al. 2022](https://www.mdpi.com/2071-1050/14/18/11311)). In a time of reconciliation, efforts to revitalize traditional practices and return rights to indigenous people must address food security issues ([Chuenpagdee & Jentoft 2019](https://link.springer.com/book/10.1007/978-3-319-94938-3)).
+
+Indigenous communities face different and varying degrees of food security  (i.e., availability, access, utilization, and stability; [Shafiee et al. 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9776675/)) , especially in remote areas ([Kenny & Chan 2017](https://www.jstor.org/stable/26379719)). However, not all communities suffer from the same rates of food insecurity, even within similar ecological regions, for example about 25% of households in Western Alaska are food insecure compared to 69% in Nunavut ([Chuenpagdee & Jentoft, 2019](https://www.researchgate.net/profile/Tek-Gurung/publication/329100949_The_principles_of_interdisciplinary_research_in_small_scale_fisheries/links/5bf56ced299bf1124fe4b052/The-principles-of-interdisciplinary-research-in-small-scale-fisheries.pdf)). In fact, Nunavut has the highest rate of food insecurity for any indigenous population living in a developed country ([Council of Canadian Academies 2014](https://cca-reports.ca/reports/aboriginal-food-security-in-northern-canada-an-assessment-of-the-state-of-knowledge/)). Culture, history, local practices, environmental change, logistics, and governance systems all play a role in food security outcomes. Community-based actions  ([Domingo et al. 2021](https://www.mdpi.com/1660-4601/18/9/4404)), protecting and restoring habitats ([Pickzak et al. 2023](https://cdnsciencepub.com/doi/full/10.1139/er-2023-0034)) are key towards achieving food sovereignty and security and human wellbeing in local northern communities ([Skinner et al. 2013](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-427)).
+
+**Freshwater fisheries**
+
+Globally, freshwater fisheries are a key source of food providing high quality protein and a key component of a healthy diet ([Béné et al., 2016](https://www.sciencedirect.com/science/article/abs/pii/S0305750X15002892?via%3Dihub)). Subsistence fisheries are meant to provide enough food for the fisher and their family or community. These small- scale fisheries are essential to food security for many communities but also support the culture and sense of place of many indigenous peoples ([McClanahan et al. 2015](https://onlinelibrary.wiley.com/doi/10.1111/faf.12045)). Typically, subsistence fisheries are more sustainable than large-scale commercial fishing but can be heavily impacted by these practices as they rely on the same stocks of fish ([Béné et al. 2016](https://www.sciencedirect.com/science/article/abs/pii/S0305750X15002892?via%3Dihub)). As such, many communities around the world are facing reduced catch as a consequence of declining stocks, threatening their food security and culture ([Pauly et al. 2005](https://royalsocietypublishing.org/doi/10.1098/rstb.2004.1574)).
+
+::: {.callout-tip collapse="true"}
+## Freshwater fisheries
+
+**Where:**
+
+Worldwide
+
+**Description:**
+
+Evaluate the contribution of fisher's indigenous and local knowledge ([Silvano et al. 2023](https://www.sciencedirect.com/science/article/pii/S0169534722002518)).
+
+156 cases based on 179 published studies on fishers' knowledge of aquatic ecosystems worldwide (between 1974 and 2022), including several organisms (fish, turtles, etc) and multiple research topics (e.g., population biology, invasive species, modeling, etc.). ([Silvano et al. 2023](https://www.sciencedirect.com/science/article/pii/S0169534722002518)).
+
+**Goals/targets (biodiversity conservation/human well-being):**
+
+[United Nations Sustainable Development Goals](https://sdgs.un.org/goals)
+
+**Strengths:**
+
+Fishers' Indigenous and local knowledge can broaden the available biodiversity/environmental indicators from conventional science to evaluate changes, Some of the examples they include are:
+
+\- shifts in behavior
+
+\- fish condition ('skinny fish')
+
+\- weather patterns
+
+\- water color
+
+\- presence of associated species
+
+\- sea-water salinity
+
+**Actions taken or suggested:**
+
+\- Integrate fisher's indigenous and local knowledge into formalized management and conservation programs.
+
+\- Overcome intellectual inertia and structural features of research funding, bureaucracies and management institutions.
+
+\- Operationalize the interface between conventional science and ILK by participatory monitoring, citizen science, community science, and knowledge co-production.
+
+\- Address limitations in conventional knowledge and ILK.
+:::
+
+**Foraging and hunting wild foods**
+
+Fauna and flora offer multiple sources of food, medicine, shelter, materials, forage, ceremonial symbols, among others to Indigenous Peoples and local communities. For instance, more than 35,000 plants are thought to be used by human cultures globally ([Pironon et al. 2024](https://www.science.org/doi/10.1126/science.adg8028)) and the importance of traditional knowledge, cultural identity, dietary quality, wild food harvest, food insecurity, and biodiversity conservation have been evaluated in some regions (e.g., [Campbell et al. 2021](https://www.frontiersin.org/articles/10.3389/fsufs.2021.663863/full), [Kennedy et al. 2022](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003909), [Punchay et al. 2020](https://link.springer.com/article/10.1007/s10722-020-00910-x), [Ahmed et al. 2022](https://www.frontiersin.org/articles/10.3389/fsufs.2022.774701/full)).
+
+Climate change is expected to impact on spatio-temporal availability of wildfoods and the perceived change in species abundance by local communities (e.g., [Schunko et al. 2022](https://www.sciencedirect.com/science/article/pii/S2211912421001097), [Powell et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S1877343523000490)).
+
+Multiple approaches to address major threats have been proposed ([Powell et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S1877343523000490)), including the weaving of multiple knowledge systems, sustainable foraging of wild foods ([Teixidor et al. 2022](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10332)), and support community-based participatory research and community-led planning actions ([Domingo et al. 2021](https://www.mdpi.com/1660-4601/18/9/4404), [Sotoyama Initiative](https://satoyama-initiative.org/about/), [Mason et al. 2022](https://bioone.org/journals/mountain-research-and-development/volume-42/issue-4/mrd.2022.00016/Rethinking-the-Role-of-Indigenous-Knowledge-in-Sustainable-Mountain-Development/10.1659/mrd.2022.00016.full)) have been proposed.
+
+::: {.callout-tip collapse="true"}
+## Examples of weaving multiple knowledge systems in monitoring biodiversity
+
+[Gagnon et al (2023)](https://www.biorxiv.org/content/10.1101/2023.02.01.526335v1.full.pdf) bridged Indigenous and scientific knowledge to identify the mechanisms linking climate, caribou, and human capacity to satisfy cultural and subsistence needs in a human-caribou system offering a unique research environment. They bridged long-term scientific data and ILK to test the direct and indirect effects of regional temperature, snow conditions, icing events, and large-scale temporal changes associated with caribou demography on caribou distribution and the perceptions and behaviour of hunters.
+
+They tested "the direct and indirect effects of regional temperature, snow conditions, icing events, and large-scale temporal changes associated with caribou demography on caribou distribution and the perceptions and behaviour of hunters". Figure below shows "that cold temperatures and deep snow during Fall have strong effects on both caribou distribution and the perceptions of hunters about caribou availability, which in turn influence the decision to go hunting and the capacity of meeting needs in caribou" ([Gagnon et al 2023](https://www.biorxiv.org/content/10.1101/2023.02.01.526335v1.full.pdf)).
+:::
+
+## 3. Scenario assessment
+
+"Scenarios capture different policy options being considered by decision makers, which are then translated by models into consequences for nature, nature's benefits to people and quality of life". ([IPBES 2016](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and)).
+
+### 
+
+::: panel-tabset
+## Ecosystem services tools
+
+Ecosystem services tools such as [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)™, [ARIES](https://aries.integratedmodelling.org/), and [Co\$tingNature](https://www.policysupport.org/costingnature) are available to quantify trade-offs among multiple ecosystem services (in particular for carbon storage-soil pools). These tools can integrate complex interactions and beneficiaries ([Thierry et al. 2021](https://www.facetsjournal.com/doi/10.1139/facets-2020-0116)) under various scenarios (e.g., climate change, land cover change, urban growth, management interventions, etc.; see for instance: [Brown et al. 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122721)).
+
+::: {.callout-tip collapse="true"}
+## InVEST tool
+
+**Where:**
+
+Qiantang River watershed of China ([Sun et al. 2019](https://drive.google.com/file/d/1cmxXfto1eIQB3IHrozI0wWkZ2OTIkDnn/view))
+
+Similar studies (e.g., Yangtze River, China [Li et al. 2023](https://peerj.com/articles/15285/)).
+
+**Aim:** Evaluate the effect of multiple scenarios on ecosystem services
+
+**Description:**
+
+Ecosystem services (water yield, carbon storage, habitat quality) from 2000 to 2015 are assessed and compared to future land use scenarios in 2025 (business-as-usual, strategic planning, environmental protection, and economic development).
+
+**Goals/targets (biodiversity conservation/human well-being):**
+
+National targets: areas of ecological importance
+
+**Limitations:**
+
+\- A subset of ecosystem services was modeled
+
+\- Some parameters in the model are based on studies with high uncertainty
+
+\- Climate change was not included in the analysis
+
+**Strengths:**
+
+\- High-resolution analysis
+
+\- Spatially explicit areas of potential change and the drivers
+
+**Actions taken or suggested:**
+
+The Strategic Planning scenario would have fewer trade-offs between water yield and carbon storage, water purification, and habitat quality. Also, it would have the largest synergy between carbon storage, water purification, and habitat quality, compared to other scenarios" ([Sun et al. 2019](https://drive.google.com/file/d/1cmxXfto1eIQB3IHrozI0wWkZ2OTIkDnn/view)).
+
+![Approach proposed by Li et al. (2023) to evaluate carbon storage under future scenarios of land use, (1) Data preparation and preprocessing. (2) The PLUS model predicted land utilization changes for 2030 under the trend continuation scenario, the eco-friendly scenario, and the comprehensive development scenario. (3) Using the InVEST model, the space-time allocation of carbon storage under various development scenarios from 2000 to 2030 was evaluated. (4) The spatial correlation of carbon storage was evaluated using the spatial autocorrelation model, and the influencing factors of carbon storage were analyzed.](Figures/InVEST%20tool.png){fig-align="center"}
+:::
+
+## Integrated Assessment Models (IAMs).
+
+Integrated assessment models (IAMs) have emerged as key tools for building and assessing long term climate mitigation scenarios and inform policy-making ([Fuhram et al. 2019](https://www.frontiersin.org/articles/10.3389/fclim.2019.00011/full#B19), [Vaidyanathan 2021](https://www.pnas.org/doi/10.1073/pnas.2101899118), [van Beek et al. 2020](https://www.sciencedirect.com/science/article/pii/S0959378020307743#b0605)). IAMs "are coupled models of the global economic and climate systems, first developed to represent fossil fuel emissions from the energy system (Reister and Edmonds, 1977), and later expanded to include land use change and forestry emissions, as well as non-CO2 emissions ([Di Vittorio et al., 2014](https://bg.copernicus.org/articles/11/6435/2014/))" ([Furhman et al. 2019](https://www.frontiersin.org/articles/10.3389/fclim.2019.00011/full)).
+
+IAMs provide "insights about the options available for, and the consequences of, possible strategies for long term greenhouse gas (GHG) emission reductions, by simultaneously capturing the development of several interacting, relevant systems (e.g. energy, economy, land use)" ([Keppo et al. 2021](https://iopscience.iop.org/article/10.1088/1748-9326/abe5d8)). 
+
+> In general, IAMs are spatially explicit and mathematical models, usually global in scope, sector oriented (e.g., [Krey 2014](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wene.98)) and originally designed to evaluate climate change scenarios (e.g., SSPs, [IPCC 2021](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-4/), [Furhman et al. 2019](https://www.frontiersin.org/articles/10.3389/fclim.2019.00011/full)) and SDGs ([van Soest et al. 2019](https://www.sciencedirect.com/science/article/pii/S2589791819300179)). 
+
+[Bosetti et al. (2021)](https://iris.unibocconi.it/bitstream/11565/4035500/1/IAMs.pdf) evaluated how IAMs were developed and used to respond to the main questions surrounding climate change and also the interconnection between climate policies and other sustainable development objectives.  
+
+-   What are the climate implications of a "baseline" or "business as usual" trajectory; that is, a scenario characterized by no meaningful action to reduce anthropogenic greenhouse gas emissions?
+
+-   What techno-economic investments and strategies would achieve a given climate target at minimum cost?
+
+-   What is the "optimal" increase in temperature? "Optimal" is defined as the level of temperature increase that balances the cost of mitigating emissions with the benefit of the avoided climate damage.
+
+-   What are the multiple physical impacts associated with climate change?
+
+IAMs have been also developed to include other components from the human and natural systems.  And, there are also attempts to scale-down to regional, national ([Schaeffer et al. 2020](https://link.springer.com/article/10.1007/s10584-020-02837-9)) and local levels ([Guariso et al. 2016](https://www.sciencedirect.com/science/article/abs/pii/S1462901116301447)).
+
+**Strength of an IAM**
+
+"The strength of an IAM is its ability to calculate the consequences of different assumptions and to interrelate many factors simultaneously, but an IAM is constrained by the quality and character of the assumptions and data that underlie the model. IAMs are based on a multitude of assumptions about the atmosphere and oceans, land cover and land use, economic growth, fossil fuel emissions, population growth, technological change, etc." ([CIESIN 1995](https://sedac.ciesin.columbia.edu/mva/iamcc.tg/mva-questions.html)). As a result, [CIESIN (1995)](https://sedac.ciesin.columbia.edu/mva/iamcc.tg/mva-questions.html) highlight IAMs limitations:
+
+-   The systems modeled are large, complex, and chaotic.
+
+-   The complexity of natural and social systems cannot be captured by IAMs.
+
+-   The full consequences of policies considered will not be known for decades or centuries.
+
+-   Over this span of time, many surprises will occur.
+
+-   Scientific knowledge is incomplete or absent in many areas.
+
+-   Values of human, animal, and plant life, health, and diversity are difficult to quantify.
+
+**Some limitations**
+
+Similarly, [Keppo et al. (2021)](https://iopscience.iop.org/article/10.1088/1748-9326/abe5d8) summarized some of the IAMs criticisms related to climate change-energy sector:
+
+-   "IAMs have been criticized for neglecting actor heterogeneity, which plays an important role in societal transitions. Modelling the complexity of societal transitions involves representing mechanisms that lead to heterogeneous behaviour (e.g. norms, conventions, conflict, negotiation, strategic behaviour, resistance to change), local initiatives (local heterogeneity), actor interactions, and the evolving system level structures, including social and political processes, governance and institutions.
+
+-   IAMs have been criticized for the way they represent the economy. In particular, IAMs were criticized for relying on first-best economic assumptions of perfectly functioning markets omitting important aspects of real-world frictions with key implications for macroeconomic dynamics and hence least-cost assessment
+
+-   A major critique about IAMs concerns cost-effective climate change mitigation scenarios and the role of carbon pricing frameworks. The critique addresses various aspects of the political and socio-technical feasibility of transition scenarios related to carbon pricing. 
+
+-   The critique that climate mitigation scenarios derived with IAMs ignore interactions with other SDGs ([Geels et al 2016](https://www.nature.com/articles/nclimate2980)) is unsubstantiated.
+
+-   Modeller judgement has an important role in defining numerous details about how the system is modelled (e.g. what technologies to include/exclude), but such subjective decisions, often driven by non-epistemic values and norms, are rarely made explicit..., and the documentation process of IAMs and repeatability of IAM analysis have been criticized.."
+
+[Tavoni & Valente (2022)](https://direct.mit.edu/posc/article-abstract/30/2/321/109169/Uncertainty-in-Integrated-Assessment-Modeling-of?redirectedFrom=fulltext) highlighted "the crucial role of epistemic uncertainty in IAMs", arguing that "the normative components of models, more than the physical and socio-techno-economic ones, are the most fraught by uncertainty and yet the least understood". And, [Alshehri et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2352550924001234) proposed a "novel uncertainty assessment protocol for integrated ecosystem services-life cycle assessments".
+
+[Beck et al. (2020)](https://iopscience.iop.org/article/10.1088/1748-9326/ab5c3e/meta) divided into IAMs modelling assumptions (mostly data assumption) for biomass with carbon capture and storage and whether multiple IAMs include and communicate these assumptions. They found that "IAMs are transparent in communicating wider system and biomass resource availability assumptions. This transparency decreases as we move into modelling details..." and some assumptions are better communicated than others ([Beck et al. 2020](https://iopscience.iop.org/article/10.1088/1748-9326/ab5c3e/meta))
+
+**Who is working on IAMs**
+
+This is an active field of research and scientists, practitioners and organizations are working to develop new IAMs to fit specific purposes and/or tackle main criticisms. The Integrated Assessment Modelling Consortium ([IAMC](https://www.iamconsortium.org/resources/models-documentation/)) is an organization of scientific research institutions that pursues scientific understanding of issues associated with integrated assessment modeling and analysis ([UN 2018](https://unfccc.int/topics/mitigation/workstreams/response-measures/modelling-tools-to-assess-the-impact-of-the-implementation-of-response-measures/integrated-assessment-models-iams-and-energy-environment-economy-e3-models)). A [review of global-nature models](https://www.ngfs.net/sites/default/files/media/2023/12/13/ngfs_nature_model_idcards.pdf) from [The Network for Greening Financial System](https://www.ngfs.net/en) is also available.
+
+::: {.callout-tip collapse="true"}
+## Some examples of IAMs
+
+The firsts models to respond to questions related with climate change were the Integrated Model for the Assessment of the Greenhouse Effect ([IMAGE](https://models.pbl.nl/image/index.php/IMAGE_framework)) and the Atmospheric Stabilization Framework ([ASF](https://archive.ipcc.ch/ipccreports/sres/emission/index.php?idp=151)). Then, to describe narratives of the future, a group of IAMS were developed and improved, including: [IMAGE](https://models.pbl.nl/image/index.php/IMAGE_framework) ([Roelfsema et al. 2022](https://www.sciencedirect.com/science/article/pii/S1462901122001538)), [ASF](https://archive.ipcc.ch/ipccreports/sres/emission/index.php?idp=151), MESSAGE, MARIA and [AIM](https://www-iam.nies.go.jp/aim/).
+
+For instance, [GLOBIOM](https://iiasa.github.io/GLOBIOM/introduction.html) assesses competition for land use between agriculture, bioenergy, and forestry sectors. Some countries have developed a regional version of GLOBIOM to simulate regional economic partial equilibrium and land use dynamics (GLOBIOM-Brazil, [Soterroni et al. 2018](https://iopscience.iop.org/article/10.1088/1748-9326/aaccbb/meta) and [Soterroni et al. 2019](https://www.science.org/doi/full/10.1126/sciadv.aav7336)) to evaluate "whether existing and expected national policies will allow Brazil to meet its net-zero GHG emissions pledge by 2050" and "the role of nature-based solutions, such as the protection and restoration of ecosystems, and engineered solutions, such as bioenergy with carbon capture and storage" ([Soterroni et al. 2023](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16984)).
+
+[Leclère et al. (2020)](https://www.nature.com/articles/s41586-020-2705-y) used "the land-use component of four IAMs to generate spatially and temporally explicit projections of land-use change for each scenario", including The Asia Pacific Integrated Model (AIM, [Fujimori et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0959378016300838#bib0090) and [Fujimori et al. (2017)](https://www.sciencedirect.com/science/article/pii/S0959378016300838#bib0090)), [GLOBIOM](https://globiom.org/publications.html) (e.g., [Havlik et al. 2014](https://www.pnas.org/doi/full/10.1073/pnas.1308044111)), Integrated Model to Assess the Global Environment ([IMAGE](https://models.pbl.nl/image/index.php/Welcome_to_IMAGE_3.2_Documentation); e.g., [Stehfest et al. 2014](https://www.pbl.nl/sites/default/files/downloads/pbl-2014-integrated_assessment_of_global_environmental_change_with_image30_735.pdf)) and MagPIE ([Pop et al. 2014](https://www.nature.com/articles/nclimate2444)). They found that global terrestrial biodiversity trends caused by habitat conversion could be reversed if action was immediate, and of unprecedented ambition and coordination. [MEDEAS](https://www.medeas.eu/model/medeas-model) tries to integrate global biophysical and socioeconomic constraints (e.g., [Capellán et al. 2020](https://pubs.rsc.org/en/content/articlehtml/2020/ee/c9ee02627d)). 
+
+Ecological modelers have also developed some IAMs to accommodate and evaluate questions related to biodiversity futures (e.g., [Harfoot et al. 2013](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12100)) and conservation alternatives. For instance, [GLOBIO-Species](https://www.globio.info/what-is-globio) tool is available to assess the impacts of human pressures on the distribution and species population size of and [GLOBIO-ES](https://www.globio.info/what-is-globio) can help to calculate the current state, trends and possible future scenarios of ecosystem services globally, running.
+
+[Veerkamp et al. (2020)](https://link.springer.com/article/10.1007/s10113-020-01685-8) evaluated projections of future changes in biodiversity and ecosystem services under four environmental scenarios, using two IAMs: IMAGE-GLOBIO and CLIMSAVE-IAP, respectively. They results showed "that (i) climate and land use change will continue to pose significant threats to biodiversity and some ecosystem services, even in the most optimistic scenario; (ii) none of the four scenarios achieved overall preservation of BES in Europe; and (iii) targeted policies (e.g. on climate change, biodiversity conservation and sustainable land management) and behavioural change (e.g. reducing meat consumption, water-saving behaviour) reduced the magnitude of BES loss".
+
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **IAMs**                                                                                                                    | **Purpose**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Partner organization**                                                                                                                                                                                                | **Some applications**                                                                                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| The Asia-Pacific Integrated Model ([AIM](https://www-iam.nies.go.jp/aim/))                                                  | The AIM assesses policy options for stabilizing the global climate, particularly in the Asia-Pacific region, with the objectives of reducing greenhouse gas emissions and avoiding the impacts of climate change                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | National Institute for Environmental Studies ([NIES](https://www.nies.go.jp/index-e.html)), Kyoto University, Mizuho Information & Research Institute and several research institutes in the Asia-Pacific region, Japan | Climate change mitigation measures can affect agricultural markets and food security                                                                                                                  |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | Fujimori et al, (2022)                                                                                                                                                                                |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Brazilian Land Use and Energy System (BLUES)                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | COPPE/UFRJ ([Cenergia](https://cenergialab.coppe.ufrj.br/tools)), Brazil                                                                                                                                                |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+| (See MESSAGE)                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Global Change Analysis Model ([GCAM](https://gcims.pnnl.gov/modeling/gcam-global-change-analysis-model))                    | GCAM is a market equilibrium model with a global scope and operates from 1990 to 2100 in five-year time steps. It can be used to examine, for example, how changes in population, income, or technology cost might alter crop production, energy demand, and water withdrawals, or how changes in one region's demand for energy affect energy, water, and land in other regions.                                                                                                                                                                                                                                                                                                    | The Joint Global Change Research Institute ([JGCRI](https://www.pnnl.gov/projects/jgcri)), USA                                                                                                                          | Estimating the effects of additional land protection on land cover and land use ([Vittorio et al. 2022](https://onlinelibrary.wiley.com/doi/10.1111/gcbb.13016))                                      |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Global Biodiversity Model for Policy Support                                                                                | GLOBIO calculates local terrestrial biodiversity intactness, expressed by the mean species abundance (MSA) indicator, as a function of six human pressures (retrieved from [IMAGE](https://models.pbl.nl/image/Welcome_to_IMAGE_3.3_Documentation)).                                                                                                                                                                                                                                                                                                                                                                                                                                 | [PBL Netherlands Environmental Assessment Agency](https://www.pbl.nl/en)                                                                                                                                                | Evaluating conservation strategies (e.g., Half Earth,[Kok et al. 2023](https://www.sciencedirect.com/science/article/pii/S0006320723001696?ref=pdf_download&fr=RR-2&rr=87fab503da4eec98))             |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+| ([GLOBIO](https://www.globio.info/))                                                                                        | GLOBIO includes three models: GLOBIO-Aquatic, GLOBIO-Species and GLOBIO-ES (ecosystem services)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | Projecting terrestrial biodiversity intactness with GLOBIO 4 ([Schipper et al. 2019](https://onlinelibrary.wiley.com/doi/10.1111/gcb.14848))                                                          |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | GLOBIO-Aquatic, a global model of human impact on the biodiversity of inland aquatic ecosystems ([Janse et al. 2015](https://www.sciencedirect.com/science/article/pii/S1462901114002354?via%3Dihub)) |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | Land use and hunting on distribution of tropical mammals ([Gallego et al. 2020](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13459))                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | Mapping ecosystem functions and services in Eastern Europe ([Schulp et al. 2012](https://www.tandfonline.com/doi/full/10.1080/21513732.2011.645880)0)                                                 |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Global Biosphere Management Model ([GLOBIOM](https://globiom.org/))                                                         | GLOBIOM is used to analyze the competition for land use between agriculture, forestry, and bioenergy, which are the main land-based production sectors.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | International Institute for Applied Systems Analysis ([IIASA](https://iiasa.ac.at/)), Austria                                                                                                                           | Assessing Nature Based Solutions in Brazil ([Soterroni et al. 2023](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16984)).                                                                          |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | Assessing the food system-wide impacts of a global dietary shift towards plant-based animal product alternatives ([Kozicka et al. 2023](https://www.nature.com/articles/s41467-023-40899-2))          |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Integrated Model to Assess the Global Environment ([IMAGE](https://models.pbl.nl/image/Welcome_to_IMAGE_3.3_Documentation)) | The model framework is suited to large-scale (mostly global) and long-term (up to the year 2100) assessments of interactions between human development and the natural environment, and integrates a range of sectors, ecosystems and indicators.                                                                                                                                                                                                                                                                                                                                                                                                                                    | [PBL Netherlands Environmental Assessment Agency](https://www.pbl.nl/en)                                                                                                                                                | Assessing uncertainties in land cover projections ([Alexander et al. 2016](https://onlinelibrary.wiley.com/doi/10.1111/gcb.13447)).                                                                   |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | Assessing biodiversity and carbon storage ([Eitelberg et al. 2016](https://www.sciencedirect.com/science/article/abs/pii/S0959378016300978))                                                          |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Model of Agricultural Production and its Impact on the Environment ([MAgPIE](https://rse.pik-potsdam.de/doc/magpie/4.3/))   | MAgPIE is a global land use allocation model, which is connected to the grid-based dynamic vegetation model [LPJmL](https://www.pik-potsdam.de/en/institute/departments/activities/land-use-modelling/resolveuid/03e75a6471ee482bb23c52d9354921f8), with a spatial resolution of 0.5°x0.5°. It takes regional economic conditions such as demand for agricultural commodities, technological development and production costs as well as spatially explicit data on potential crop yields, land and water constraints (from LPJmL) into account. Based on these, the model derives specific land use patterns, yields and total costs of agricultural production for each grid cell. | [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home), Germany                                                                                                                            | Assessing land-use and associated carbon dynamics for different global terrestrial carbon policies at global and regional scale ([Popp et al. 2014](https://www.nature.com/articles/nclimate2444))    |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [MESSAGEix-GLOBIOM](https://docs.messageix.org/projects/global/en/latest/)                                                  | The IIASA IAM framework consists of a combination of five different models or modules -- the energy model MESSAGE, the land use model GLOBIOM, the air pollution and GHG model GAINS, the aggregated macro-economic model MACRO and the simple climate model MAGICC -- which complement each other and are specialized in different areas. All models and modules together build the IIASA IAM framework, also referred to as MESSAGE-GLOBIOM owing to the fact that the energy model MESSAGE and the land use model GLOBIOM are its most important component                                                                                                                        | International Institute for Applied Systems Analysis ([IIASA](https://iiasa.ac.at/)), Austria                                                                                                                           | Impact of climate on water systems ([Awais et al. 2024](https://gmd.copernicus.org/articles/17/2447/2024/))                                                                                           |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                         | How does near-term action on nexus SDGs influence the achievement of long-term climate goals? ([Schmidt et al. 2024](https://iopscience.iop.org/article/10.1088/1748-9326/ad3973))                    |
++-----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::
+
+## 
+:::
+
+### 
+
+## 4. Species
+
+## 5. Area approaches
+
+## Ecosystem services
+
+## 6. Attribution
+
+[Glick et al. (2024)](https://www.biorxiv.org/content/biorxiv/early/2024/05/03/2024.05.01.589041.full.pdf?%3Fcollection=)
+
+## 7. Impacts on Biodiversity and Ecosystem services
+
+## 8. Spatial prioritzation
+
+## 9. Early warnings
+
+[Tabor & Holland (2020)](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.163),
+
+[van Stokkom et al (2020)](https://www.fig.net/resources/proceedings/fig_proceedings/fig2021/papers/ts08.2/TS08.2_van_stokkom_dallinga_et_al_10885.pdf)
+
+## 10. Restoration
+
+Boreal Ecosystem Recovery and Assessment ([BERA](http://beraproject.org/bera-tools))

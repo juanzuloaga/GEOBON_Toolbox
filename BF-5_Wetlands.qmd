@@ -1,0 +1,24 @@
+---
+title: "BF-5_Wetlands"
+ormat:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+::: panel-tabset
+## Introduction
+
+## Models
+
+## Tools
+
+## Partners
+
+## Datasets
+
+## Guidance for action
+:::

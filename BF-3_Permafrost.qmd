@@ -1,0 +1,118 @@
+---
+title: "BF-3: Permafrost"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+::: panel-tabset
+## Introduction
+
+Permafrost, perennial frozen ground or soil or rock with continuous temperatures below 0°C, are also predominant in the northern part of the region.
+
+## Models
+
+::: {.callout-note collapse="true"}
+## Mapping permafrost
+
+Although permafrost is very limited in extent in the HJBL region; however where it is present it is highly vulnerable to thawing ([Spence et al. 2020](https://cdnsciencepub.com/doi/10.1139/AS-2019-0028?__hstc=74603853.87746104bbb02821408c0934c5b38b19.1699372580314.1701878220843.1701967605883.15&__hssc=74603853.1.1701967605883&__hsfp=4253508547#.XscgLWhKj4Y)). Rapid thawing can accelerate carbon release ([Turestky et al. 2019](https://par.nsf.gov/servlets/purl/10133777), [IPCC 2019](https://www.ipcc.ch/srocc/)) and contribute to decreasing the Peat-C accumulation rate of the entire pan-Arctic region ([Zhao et al. 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JG007009)). [McLaughlin and Webster (2013)](https://cfs.nrcan.gc.ca/pubwarehouse/pdfs/34839.pdf) describe the potential climate change effects on peatland carbon in the HJBL, as follow: "(1) in northern ecoregions accelerated permafrost thawing and wetter peat enhances methane emissions and (2) in southern ecoregions increased evapotranspiration and drier peat accelerates carbon dioxide losses through peat decomposition (and possible fire)." When drained or burned for agriculture (as wetlands often are) they go from being a carbon sink to a carbon source, releasing into the atmosphere centuries of stored carbon ([UN Environment programme](https://www.unep.org/news-and-stories/story/peatlands-store-twice-much-carbon-all-worlds-forests)).
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
+| Models/Approaches                                                                 | Have they been used?                                                                                      | In Canada? |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------|
+| Global Land Surface Model is designed to identify the distribution of permafrost. | [Yokohata et al. (2020)](https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-020-00380-w) |            |
+:::
+
+::: {.callout-note collapse="true"}
+## Thawing of permafrost
+
+**Thawing permafrost**
+
+Thawing permafrost might alter biophysical dynamics (e.g., surface subsidence (thermokarst) and water-logging), changes in surface wetness and wetland area ([Cooper et al. 2017](https://www.nature.com/articles/nclimate3328)) across large areas in northern regions (e.g., [Miner et al. 2022](https://www.nature.com/articles/s43017-021-00230-3), [Murdoch et al. 2021](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13834), [Turetsky et al. 2020](https://www.nature.com/articles/s41561-019-0526-0), [Turestky et al. 2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2007.01381.x)) and might pose environmental threats (e.g., [Langer et al. 2023](https://www.nature.com/articles/s41467-023-37276-4)). "A warming climate can induce environmental changes that accelerate the microbial breakdown of organic carbon and the release of the greenhouse gases carbon dioxide and methane" ([Schuur et al. 2015](https://www.nature.com/articles/nature14338)). [Harris et al. (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16894) have shown large losses following permafrost the in peatlands in western Canada and [Du et al. (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0341816221006305) showed the potential role of peatlands in reducing the effect of permafrost thaw due to "peat's thermal insulation effect on permafrost due to its low thermal conductivity and high moisture content". 
+
+Models to evaluate permafrost thawing along with other models (e.g., carbon storage, biodiversity) might offer a more realistic picture of the HJBL dynamics and provide valuable information for spatial planning and decision-making. For instance, Earth System Models shows self-sustained thawing of permafrost ([Randers & Goluke 2020](https://www.nature.com/articles/s41598-020-75481-z)), the Global Land Surface Model is designed to identify the distribution of permafrost ([Yokohata et al. 2020](https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-020-00380-w)), and the Northern Ecosystems Soil Temperature model (NEST) is "a process-based model to simulate permafrost thermal regimes by combining the strength of existing permafrost models and land surface process models" ([Zhang et al. 2003](https://www.researchgate.net/publication/228533588_A_process-based_model_for_quantifying_the_impact_of_climate_change_on_permafrost_thermal_regimes), [Zhang et al. 2008](https://www.sciencedirect.com/science/article/abs/pii/S0921818107001087)), among others. [Spence et al. (2020)](https://cdnsciencepub.com/doi/10.1139/AS-2019-0028?__hstc=74603853.87746104bbb02821408c0934c5b38b19.1699372580314.1701878220843.1701967605883.15&__hssc=74603853.1.1701967605883&__hsfp=4253508547#.XscgLWhKj4Y) developed and applied "a conceptual framework for assessing vulnerability of Northern Canadian water resources to permafrost thaw. For this study, water resources are defined as surface hydrological and aquatic chemistry regimes that are characterized by typical water budgets, and water chemistry concentrations and loads". [Spence et al. (2020)](https://cdnsciencepub.com/doi/10.1139/AS-2019-0028?__hstc=74603853.87746104bbb02821408c0934c5b38b19.1699372580314.1701878220843.1701967605883.15&__hssc=74603853.1.1701967605883&__hsfp=4253508547#.XscgLWhKj4Y) provided spatial explicit maps of the Canadian Water Resources Vulnerability Index to Permafrost Thaw (CWRVIPT) and[Boike et al. (2021)](https://cdnsciencepub.com/doi/10.1139/AS-2021-0007) provided a multiparameter protocol to monitor permafrost thaw.
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
++---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Models/Approaches                                                         | Have they been used?                                                                                                                                                       | In Canada?                                                                                                                                                                                                                               |
++===========================================================================+============================================================================================================================================================================+==========================================================================================================================================================================================================================================+
+| Earth System Models (ESCIMO climate model)                                | [Randers & Goluke (2020)](https://www.nature.com/articles/s41598-020-75481-z)**,**                                                                                         |                                                                                                                                                                                                                                          |
+|                                                                           |                                                                                                                                                                            |                                                                                                                                                                                                                                          |
+|                                                                           | [Randers et al. (2016)](https://esd.copernicus.org/articles/7/831/2016/)                                                                                                   |                                                                                                                                                                                                                                          |
++---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| The Northern Ecosystems Soil Temperature model (NEST)                     | [Zhang et al. (2003)](https://www.researchgate.net/publication/228533588_A_process-based_model_for_quantifying_the_impact_of_climate_change_on_permafrost_thermal_regimes) |                                                                                                                                                                                                                                          |
+|                                                                           |                                                                                                                                                                            |                                                                                                                                                                                                                                          |
+|                                                                           | [Zhang et al. (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0921818107001087)                                                                             |                                                                                                                                                                                                                                          |
++---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Canadian Water Resources Vulnerability Index to Permafrost Thaw (CWRVIPT) |                                                                                                                                                                            | [Spence et al. (2020)](https://cdnsciencepub.com/doi/10.1139/AS-2019-0028?__hstc=74603853.87746104bbb02821408c0934c5b38b19.1699372580314.1701878220843.1701967605883.15&__hssc=74603853.1.1701967605883&__hsfp=4253508547#.XscgLWhKj4Y). |
++---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hector (simple global climate carbon-cycle model)                         | [Hartin et al. (2015)](https://gmd.copernicus.org/articles/8/939/2015/),                                                                                                   |                                                                                                                                                                                                                                          |
+|                                                                           |                                                                                                                                                                            |                                                                                                                                                                                                                                          |
+|                                                                           | [Woodard et al. (2021)](https://gmd.copernicus.org/articles/14/4751/2021/)                                                                                                 |                                                                                                                                                                                                                                          |
++---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::
+
+::: {.callout-note collapse="true"}
+## Monitoring protocols
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
+| Models/Approaches                   | Have they been used? | In Canada?                                                                |
+|-------------------------------------|----------------------|---------------------------------------------------------------------------|
+| Protocol to monitor permafrost thaw |                      | [Boike et al. (2021)](https://cdnsciencepub.com/doi/10.1139/AS-2021-0007) |
+:::
+
+::: {.callout-note collapse="true"}
+## Assessment
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
++-------------------+----------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
+| Models/Approaches | Have they been used?                                                                               | In Canada?                                                                          |
++===================+====================================================================================================+=====================================================================================+
+| Assessment        | [Schuur et al. (2013)](https://link.springer.com/article/10.1007/s10584-013-0730-7),               | [Fatolahzadeh & Maghoul (2024)](https://www.nature.com/articles/s43247-024-01317-7) |
+|                   |                                                                                                    |                                                                                     |
+|                   | [Chen et al. (2023)](https://esd.copernicus.org/articles/14/55/2023/),                             |                                                                                     |
+|                   |                                                                                                    |                                                                                     |
+|                   | [Steinert et al. (2023)](https://iopscience.iop.org/article/10.1088/1748-9326/ad10d7),             |                                                                                     |
+|                   |                                                                                                    |                                                                                     |
+|                   | [Burke et al. (2020)](https://tc.copernicus.org/articles/14/3155/2020/tc-14-3155-2020.html),       |                                                                                     |
+|                   |                                                                                                    |                                                                                     |
+|                   | [Teufel & Sushama (2019)](https://www.nature.com/articles/s41558-019-0614-6?fromPaywallRec=false), |                                                                                     |
+|                   |                                                                                                    |                                                                                     |
+|                   | [Turesky et al. (2020)](https://www.nature.com/articles/s41561-019-0526-0?fromPaywallRec=false),   |                                                                                     |
+|                   |                                                                                                    |                                                                                     |
+|                   | [Hu et al. (2022)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF002835)          |                                                                                     |
++-------------------+----------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
+:::
+
+## Tools
+
+No identified yet!
+
+## Partners
+
+In construction!!
+
+## Datasets
+
+In construction!!
+
+## Guidance for action
+
+In construction!!
+:::

@@ -1,0 +1,159 @@
+---
+title: "BF-4: Rivers & Basins"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+::: panel-tabset
+## Introduction
+
+In construction!!
+
+## Models
+
+::: {.callout-note collapse="true"}
+## Free-flowing rivers
+
+Free flowing-rivers are critical to maintain freshwater and terrestrial biodiversity and ecological processes, as well as provide multiple ecosystem services for society. [Grill et al. (2019)](https://www.nature.com/articles/s41586-019-1111-9) defined free-flowing rivers as "\...rivers where natural aquatic ecosystem functions and services are largely unaffected by changes to fluvial connectivity allowing an unobstructed exchange of material, species, and energy within the river system and surrounding landscapes". 
+
+\
+[Grill et al. (2019)](https://www.nature.com/articles/s41586-019-1111-9) developed a global status for rivers (free-flowing rivers), including multiple metrics of human impact on these networks. They summarized their results within a hierarchical set of basins and subbasins (see [HydroBASINS](https://www.hydrosheds.org/products/hydrobasins)) in what they call the Connectivity Status Index.  [Confluvio (2020)](https://www.confluvio.com/project/identifying-key-biodiversity-areas-in-canada) developed a river connectivity index for hydrological catchments in Canada. The map below shows the Connectivity Status Index for Canada, developed by  [Confluvio (2020)](https://www.confluvio.com/project/identifying-key-biodiversity-areas-in-canada) is one approximation of rivers' status in Canada.
+
+![Rivers' Connectivity Status Index for Canada, developed by [Confluvio (2020)](https://www.confluvio.com/project/identifying-key-biodiversity-areas-in-canada)](Figures/csi.png){fig-align="center"}
+
+Some applications using [Grill et al. (2019)](https://www.nature.com/articles/s41586-019-1111-9) work are:
+
+-   In protected areas ([Opperman et al. 2021](https://www.researchgate.net/publication/349841630_Safeguarding_Free-Flowing_Rivers_The_Global_Extent_of_Free-Flowing_Rivers_in_Protected_Areas))
+
+Integrating free-flowing rivers into global targets (e.g., Sustainable Development Goals (SDGs) 6 and 15, Aichi Target 11, and the post-2020 global biodiversity framework, [Petersen et al. 2022](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3898)).
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
+| Models/Approaches         | Have they been used?                                                     | In Canada?                                                                                         |
+|---------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Connectivity Status Index | [Grill et al. (2019)](https://www.nature.com/articles/s41586-019-1111-9) | [Confluvio (2020)](https://www.confluvio.com/project/identifying-key-biodiversity-areas-in-canada) |
+:::
+
+::: {.callout-note collapse="true"}
+## Environmental flows (e-flows)
+
+E-flows are defined as "the quantity, timing, and quality of freshwater flows and levels necessary to sustain aquatic ecosystems which, in turn, support human cultures, economies, sustainable livelihoods, and well-being" ([Arthington et al. 2018](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00045/full), [Arthington et al. 2019](https://cdnsciencepub.com/doi/full/10.1139/er-2022-0126)).
+
+There is a pressing need to adapt environmental flow assessment (EFA) to embrace a wider set of socio-economic concerns than previously addressed. [Finn & Jackson (2011)](https://link.springer.com/article/10.1007/s10021-011-9476-0), in Australia, proposed "three challenges to conventional environmental flow assessments that, if met, will improve the ability of water resource planning to address indigenous interests.
+
+\- "The first challenge is to recognize that in an indigenous context a different suite of species may be considered important when compared to those valued by other stakeholders. 
+
+\- The second challenge is to accommodate a different set of management objectives in environmental flow allocation.
+
+\- The third and arguably most theoretically challenging task is for environmental flow assessments to take into account indigenous worldviews and the quality of people--place relationships that are significant in indigenous cultures". ([Finn and Jackson 2011](https://link.springer.com/article/10.1007/s10021-011-9476-0)).
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
++-------------------------------+-------------------------------------------------------------------------------------------------+------------+
+| Models/Approaches             | Have they been used?                                                                            | In Canada? |
++===============================+=================================================================================================+============+
+| Environmental flows (e-flows) | [Arthington et al. (2018)](https://www.frontiersin.org/articles/10.3389/fenvs.2018.00045/full), |            |
+|                               |                                                                                                 |            |
+|                               | [Arthington et al. (2019)](https://cdnsciencepub.com/doi/full/10.1139/er-2022-0126)             |            |
++-------------------------------+-------------------------------------------------------------------------------------------------+------------+
+:::
+
+::: {.callout-note collapse="true"}
+## Watershed runoff and freshwater discharged
+
+There are some models for watershed runoff (e.g., [KINEROS](https://www.tucson.ars.ag.gov/kineros/)) that can be implemented in [The Automated Geospatial Watershed Assessment Tool](https://www.tucson.ars.ag.gov/agwa/) for evaluating flood regulating ecosystem services ([Nedkov & Burkhard 2012](https://www.sciencedirect.com/science/article/abs/pii/S1470160X11001932?via%3Dihub))
+
+Regional models for freshwater discharge in the HJBL, using the HYdrological Predictions for the Environment (HYPE) hydrological model by [Syadnyk et al. (2020)](https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.439/114485/Hydrological-modeling-of-freshwater-discharge-into) have been implemented.
+
+Note: there is a knowledge gap here that needs to be covered in further reviews.
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
++-----------------------------------------------------------------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Models/Approaches                                                           | Have they been used? | In Canada?                                                                                                                                              |
++=============================================================================+======================+=========================================================================================================================================================+
+| Freshwater discharged                                                       |                      | [Syadnyk et al. (2020)](https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.439/114485/Hydrological-modeling-of-freshwater-discharge-into) |
+|                                                                             |                      |                                                                                                                                                         |
+| The HYdrological Predictions for the Environment (HYPE) hydrological model. |                      |                                                                                                                                                         |
++-----------------------------------------------------------------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Catchment based hydrologic model                                            |                      |                                                                                                                                                         |
+|                                                                             |                      |                                                                                                                                                         |
+| [KINEROS](https://www.tucson.ars.ag.gov/kineros/)                           |                      |                                                                                                                                                         |
++-----------------------------------------------------------------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::
+
+::: {.callout-note collapse="true"}
+## Eco-hydrological
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
++------------------------------------------------------------------------------------------------------------------+----------------------+------------------------------------------------------------------------------------------------+
+| Models/Approaches                                                                                                | Have they been used? | In Canada?                                                                                     |
++==================================================================================================================+======================+================================================================================================+
+| MESH Model                                                                                                       |                      | [Champagne et al. (2021)](https://www.sciencedirect.com/science/article/pii/S2214581821000975) |
+|                                                                                                                  |                      |                                                                                                |
+|                                                                                                                  |                      | [Pietroniro et al. 2007](https://hess.copernicus.org/articles/11/1279/2007/)                   |
++------------------------------------------------------------------------------------------------------------------+----------------------+------------------------------------------------------------------------------------------------+
+| [Canadian Hydrological Model (CHM)](https://chrismarsh.github.io/CHM/)                                           |                      |                                                                                                |
++------------------------------------------------------------------------------------------------------------------+----------------------+------------------------------------------------------------------------------------------------+
+| [CRHM, SUMMA, VIC-GRU](https://gwf.usask.ca/core-modelling/data-and-models/hydrology-and-land-models.php#VICGRU) |                      |                                                                                                |
++------------------------------------------------------------------------------------------------------------------+----------------------+------------------------------------------------------------------------------------------------+
+:::
+
+## Tools
+
++-------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Purpose                                   | Tools                                                                                       | Supporting                                                           |
+|                                           |                                                                                             |                                                                      |
+|                                           |                                                                                             | Organization                                                         |
++===========================================+=============================================================================================+======================================================================+
+| Hydrobasins to calculate multiple indices | [HydroBASINS](https://www.hydrosheds.org/products/hydrobasins)                              | [HydroSheds](https://www.hydrosheds.org/)                            |
++-------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Catchment based hydrologic model          | [KINEROS](https://www.tucson.ars.ag.gov/kineros/)                                           | [USDA, ARS](https://www.ars.usda.gov/)                               |
++-------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Hydrologic modeling tool                  | [The Automated Geospatial Watershed Assessment Tool](https://www.tucson.ars.ag.gov/agwa/)   | [USDA-ARS,](https://www.tucson.ars.ag.gov/agwa/contact/)             |
+|                                           |                                                                                             |                                                                      |
+|                                           |                                                                                             | [University of Arizona](https://www.tucson.ars.ag.gov/agwa/contact/) |
+|                                           |                                                                                             |                                                                      |
+|                                           |                                                                                             | [University of Wyoming](https://www.tucson.ars.ag.gov/agwa/contact/) |
++-------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Hydrogeological models                    | [THYRSIS](https://gitlab.com/Oslandia/qgis/thyrsis)                                         |                                                                      |
+|                                           |                                                                                             |                                                                      |
+|                                           | [Renard et al. (2024)](https://www.sciencedirect.com/science/article/pii/S0098300424000633) |                                                                      |
++-------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------+
+
+## Partners
+
++------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| People/Organization/Institution                                                                                  | Topic                                               |
++==================================================================================================================+=====================================================+
+| [Center of Hydrology, University of Saskatchewan](https://research-groups.usask.ca/hydrology/modelling/mesh.php) | Eco-hydrological modelling                          |
++------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| François RENARD (CEA), Vincent MORA (Oslandia)                                                                   | Hydrogeological models                              |
+|                                                                                                                  |                                                     |
+|                                                                                                                  | [THYRSIS](https://gitlab.com/Oslandia/qgis/thyrsis) |
++------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+
+In construction!!
+
+## Datasets
+
+In construction!!
+
+## Guidance for action
+
+In construction!!
+:::
