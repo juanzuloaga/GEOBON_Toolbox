@@ -87,7 +87,7 @@ We acknowledge that there may be models and tools out there that escaped this re
 ::: panel-tabset
 ### Planning
 
-Before you start digging into models, tools and other means, take your time to ask yourself **what do you want to accomplish and what you need for that**. In this section we provide a preliminary <a href='/Planning_form.html'>Planning Tool Form</a> to:
+Before you start digging into models, tools and other means, take your time to ask yourself **what do you want to accomplish and what you need for that**. In this section we provide a preliminary Planning Tool Form to:
 
 &&&&&& **This section is under construction!**) &&&&
 
@@ -97,11 +97,11 @@ Before you start digging into models, tools and other means, take your time to a
 
 -   Select ecosystem services to assess
 
--   Seletc physicial features you want to evaluate
+-   Select physical features you want to evaluate
 
 -   Select potential scenarios you might want to evaluate
 
--   Select models and tools that might help you to respond your questtions and evaluate your scenarios.
+-   Select models and tools that might help you to respond your questions and evaluate your scenarios.
 
 -   Select preliminary data sets you might want to include
 
@@ -119,7 +119,7 @@ We provide a review of two main <a href='/Scenarios.html'>Scenarios</a> approach
 
 This is a compilation of <a href='/Models & Tools.html'>models and tools</a> to measure or assess some facet of biodiversity, physical features and ecosystem services. Again, it is a growing list and we expect contributions from the GEO BON community.
 
-**Data**: It includes mainly global and regional data sets that can support biodviersity and ecosystem services modeling and assessment. This is not an exhaustive list of data sets and we expect it will grow with support of the GEO BON community. We also expect national and local partners to contribute and help growing this section. Knowing what type of data and where these data sets are available will facilitate the whole process.
+We included in this section a preliminary list of global and regional data sets that can support biodiversity and ecosystem services modeling and assessment. This is not an exhaustive list of data sets and we expect it will grow with support of the GEO BON community. We also expect national and local partners to contribute and help growing this section. Knowing what type of data and where these data sets are available will facilitate the whole process.
 
 **Biophysical features (BFs)**
 
