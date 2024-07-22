@@ -133,19 +133,27 @@ We included in this section a preliminary list of global and regional data sets 
 
 -   [BF-5: Wetlands](BF-5_Wetlands.html).
 
--   BF-6: Lakes.
+-   [BF-6: Lakes](BF-6_Lakes.html).
+
+-   [BF-7: Water](BF-7_Water.html)
 
 **Ecosystem services (ESs)**
 
--   ES-1: Ecosystem services.
+-   [ES-1: Ecosystem services](ES_Ecosystem%20Services.html).
 
 **Tools for spatial prioritization (Tools-SP)**
 
--   SP-1: Spatial prioritization
+-   [SP: Spatial prioritization](SP_Spatial%20Prioritization.hmtl)
 
 ### Approaches
 
 Biodiversity conservation and ecosystem services management requires the implementation of multiple approaches to achieve desired goals and targets. However, the integration of multiple models and multiple components from social, economic and biophysical system is a necessity to understand the complexity, interactions and feed backs.
 
-These approaches span from species-specific and area-based approaches to multi-objective and scenario assessments.
+These approaches (see [Approaches](Approaches.html) section) span from species-specific and area-based approaches to multi-objective and scenario assessments.
 :::
+
+## 4. Contributors
+
+In construction!
+
+Include list of workshop's participants and highlight who has contributed to the main document.
