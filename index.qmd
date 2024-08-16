@@ -1,7 +1,7 @@
 ---
 title: "GEO BON Toolbox"
 subtitle: "Models, tools, approaches and other means to support biodiversity conservation and ecosystem services assessments"
-author: Juan Zuloaga & Andrew Gonzalez (McGill University & GEO BON)
+author: Juan Zuloaga & Andrew Gonzalez
 format:
   html:
     self-contained: true
