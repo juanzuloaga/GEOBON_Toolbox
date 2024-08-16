@@ -1,0 +1,15 @@
+---
+title: "BF-8: Fire regimes"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+css:  styles.css
+---
+
+[**This section is under construction!**]{style="color:red;"}
+
+[Kelly et al (2023)](https://www.annualreviews.org/content/journals/10.1146/annurev-environ-120220-055357)

@@ -7,6 +7,7 @@ format:
     link-external-newwindow: true
 toc: true
 editor: visual
+css:  styles.css
 ---
 
 ::: panel-tabset
@@ -112,28 +113,30 @@ Some Global and Canadian examples of model implementation.
 
 Some Global and Canadian examples of model implementation.
 
-+------------------------+--------------------------------------------------------------------------------------------------------------+------------+
-| Models/Approaches      | Have they been used?                                                                                         | In Canada? |
-+========================+==============================================================================================================+============+
-| Mapping and monitoring | [Minashy et al. (2023)](https://link.springer.com/article/10.1007/s10533-023-01084-1?fromPaywallRec=false),  |            |
-|                        |                                                                                                              |            |
-|                        | [Hastie et al. (2022)](https://eprints.whiterose.ac.uk/186536/1/Article_File_Accepted_version_Peru_Peat.pdf) |            |
-+------------------------+--------------------------------------------------------------------------------------------------------------+------------+
-|                        |                                                                                                              |            |
-+------------------------+--------------------------------------------------------------------------------------------------------------+------------+
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Models/Approaches                | Have they been used?                                                                                                                                             | In Canada? |
++==================================+==================================================================================================================================================================+============+
+| Mapping and monitoring           | [Minashy et al. (2023)](https://link.springer.com/article/10.1007/s10533-023-01084-1?fromPaywallRec=false),                                                      |            |
+|                                  |                                                                                                                                                                  |            |
+|                                  | [Hastie et al. (2022)](https://eprints.whiterose.ac.uk/186536/1/Article_File_Accepted_version_Peru_Peat.pdf)                                                     |            |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Dynamic Global Vegetation Models | [Müller & Joos (2021)](https://bg.copernicus.org/articles/18/3657/2021/#:~:text=The%20northern%20peatland%20area%20is,risk%20under%20future%20climate%20change.) |            |
+|                                  |                                                                                                                                                                  |            |
+|                                  | [Liener & Joos (2018)](https://bg.copernicus.org/articles/15/2909/2018/)                                                                                         |            |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
 
 ## Process-based models
 
-+------------------------------------------------------------------------------+--------------------------------------------------------------------------+-------------+
-| Models/Approaches                                                            | Have they been used?                                                     | In Canada?  |
-+==============================================================================+==========================================================================+=============+
-| Evolution of peatland area and carbon dynamics from the Last Glacial Maximum | [Müller & Joos (2020)](https://bg.copernicus.org/articles/17/5285/2020/) |             |
-+------------------------------------------------------------------------------+--------------------------------------------------------------------------+-------------+
++------------------------------------------------------------------------------+--------------------------------------------------------------------------+------------+
+| Models/Approaches                                                            | Have they been used?                                                     | In Canada? |
++==============================================================================+==========================================================================+============+
+| Evolution of peatland area and carbon dynamics from the Last Glacial Maximum | [Müller & Joos (2020)](https://bg.copernicus.org/articles/17/5285/2020/) |            |
++------------------------------------------------------------------------------+--------------------------------------------------------------------------+------------+
 :::
 
 ## Tools
 
-No identify yet
+[**This section is under construction!**]{style="color:red;"}
 
 ## Partners
 
@@ -318,7 +321,7 @@ sdm_map #}
 
 ## Guidance for action
 
-In construction!
+[**This section is under construction!**]{style="color:red;"}
 
 There is a need to optimize monitoring/sampling in the region by identifying priority sites where data is needed to improve model performance and reduce uncertainty.
 

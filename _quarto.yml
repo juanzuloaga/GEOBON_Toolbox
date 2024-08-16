@@ -1,0 +1,67 @@
+project:
+  type: website
+  output-dir: docs
+ 
+website:
+  title: "GEOBON Toolbox"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Weaving knowledge"
+        href: Weaving.qmd
+      - text: "Observatories"
+        href: Observatories.qmd
+      - text: "Scenarios"
+        href: Scenarios.qmd
+      - text: "Models & Tools"
+        href: Models & Tools.qmd
+      - text: "Approaches"
+        href: Approaches.qmd
+      - text: "The region"
+        href: The region.qmd
+  sidebar:
+    - title: "Home"
+      contents: 
+        - index.qmd
+    - title: "Weaving knowledge"
+      contents:
+        - Weaving.qmd
+    - title: "Observatories"
+      contents:
+        - Observatories.qmd
+    - title: "Scenarios"
+      contents:
+        - Scenarios.qmd
+        - Global_Scenarios.qmd
+    - title: "Models"
+      contents:
+        - Models & Tools.qmd
+        - BF-1_Biodiversity.qmd
+        - BF-2_Quantify carbon storage.qmd
+        - BF-3_Permafrost.qmd
+        - BF-4_Rivers.qmd
+        - BF-5_Wetlands.qmd
+        - BF-6_Lakes.qmd
+        - BF-7_Water.qmd
+        - BF-8_Fires.qmd
+        - ES_Ecosystem Services.qmd
+        - SP_Spatial Prioritization.qmd
+    - title: "Approaches"
+      contents: 
+        - Approaches.qmd
+    - title: "The region"
+      contents: 
+        - The region.qmd
+
+format:
+  html:
+    theme: cosmo
+    page-layout: article
+    toc: false
+    
+editor: visual
+
+ 

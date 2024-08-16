@@ -7,12 +7,13 @@ format:
     link-external-newwindow: true
 toc: true
 editor: visual
+css:  styles.css
 ---
 
 ::: panel-tabset
 ## Introduction
 
-Permafrost, perennial frozen ground or soil or rock with continuous temperatures below 0°C, are also predominant in the northern part of the region.
+Permafrost, perennial frozen ground or soil or rock with continuous temperatures below 0°C, are also predominant in the northern part of the region. [**This section is under construction!**]{style="color:red;"}
 
 ## Models
 
@@ -106,17 +107,17 @@ Some Global and Canadian examples of model implementation.
 
 ## Tools
 
-No identified yet!
+[**This section is under construction!**]{style="color:red;"}
 
 ## Partners
 
-In construction!!
+[**This section is under construction!**]{style="color:red;"}
 
 ## Datasets
 
-In construction!!
+[**This section is under construction!**]{style="color:red;"}
 
 ## Guidance for action
 
-In construction!!
+[**This section is under construction!**]{style="color:red;"}
 :::

@@ -1,7 +1,7 @@
 ---
 title: "GEO BON Toolbox"
-subtitle: "Models, tools, approaches and more to support biodiversity conservation and ecosystem services assessments (Case study: the Hudson-James Bay Lowlands and northern landscapes in Canada)"
-author: Juan Zuloaga, Andrew Gonzalez
+subtitle: "Models, tools, approaches and other means to support biodiversity conservation and ecosystem services assessments"
+author: Juan Zuloaga & Andrew Gonzalez (McGill University & GEO BON)
 format:
   html:
     self-contained: true
@@ -10,6 +10,7 @@ format:
 toc: true
 date-modified: last-modified
 editor: visual
+css:  styles.css
 ---
 
 ## 1. Aim
@@ -20,20 +21,17 @@ It is aimed to help multiple partners in **planning and evaluating decisions** a
 
 **We used as an example the GEO BON-Parks Canada initiative** to compile and synthesize knowledge from an array of models, tools, scenarios, assessments and observatories that can be used and/or adapted to understand biodiversity change and ecosystem services assessments in the **Hudson James Bay Lowlands (HJBL)**.
 
-We truly believe that this compilation can be **extended and used in other initiatives**.
+We truly believe that this compilation can be **extended and used in other initiatives**. To that end, we are planning to add some interactive tools to facilitte partners to collaborate and expand any section of this Toolbox.
+
+This is a work in progress, so you will find this message: [**This section is under construction!**]{style="color:red;"}
 
 ## 2. The conceptual framework
 
 We used the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) conceptual framework that provides guidance for the use of scenarios, models and tools for implementing regional and global assessments, designing policy and management strategies and addressing gaps in data and knowledge relevant to biodiversity and ecosystem services, among others.
 
-```{r , echo=FALSE, warning=FALSE, error=FALSE, message=FALSE, fig.align='center'}
+![](Figures/IPBES_2016_Framework.png){fig-align="center"}
 
-knitr::include_graphics("C:/GEOBON_Toolbox/Figures/IPBES_2016_Framework.png")
-
-
-```
-
-The Figure depicts two main elements of the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) conceptual framework: first (left) the role of models and scenarios in linking data and knowledge to policy and decisions making, and secondly (right) a simplified conceptualization of the relationships among components of nature and society. It shows how models and scenarios can mediate the flows of knowledge that guide action in different sectors of the economy for the conservation and sustainable use of biodiversity and ecosystem services and human well-being. Similar conceptualisations in other knowledge systems include 'living in harmony with nature' and 'Mother Earth', among others. The concepts of 'nature', 'nature's benefits to people' and 'good quality of life' are inclusive of all these worldviews.
+The **figure above** depicts two main elements of the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) conceptual framework: first (left) the role of models and scenarios in linking data and knowledge to policy and decisions making, and secondly (right) a simplified conceptualization of the relationships among components of nature and society. It shows how models and scenarios can mediate the flows of knowledge that guide action in different sectors of the economy for the conservation and sustainable use of biodiversity and ecosystem services and human well-being. Similar conceptualizations in other knowledge systems include 'living in harmony with nature' and 'Mother Earth', among others. The concepts of 'nature', 'nature's benefits to people' and 'good quality of life' are inclusive of all these worldviews.
 
 ::: {.callout-note collapse="true"}
 ## IPBES 2016 framework: Description of components (models, tools, scenarios, observatories, assessment).
@@ -52,7 +50,7 @@ A set of workflows and associated algorithms representing models and approaches 
 
 **Weaving multiple-knowledge systems**
 
-Weaving multiple knowledge systems "refers to a process through which multiple types of knowledge are equitably brought together to enable the reciprocal exchange of understanding for mutual learning and application" ([Henri et al. 2021](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12057#:~:text='Weaving%20knowledge%20systems'%20refers%20to,et%20al.%2C%202017).)).
+Weaving multiple knowledge systems "refers to a process through which multiple types of knowledge are equitably brought together to enable the reciprocal exchange of understanding for mutual learning and application" ([Henri et al. 2021](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12057#:~:text='Weaving%20knowledge%20systems'%20refers%20to,et%20al.%2C%202017)).
 
 **Observatories**
 
@@ -63,60 +61,40 @@ Observatories are multi-partner and multi-actor organizations that gather, curat
 Multiple partners working together proposed to explore plausible future scenarios to be tested with data and models. The assessment evaluates vulnerabilities and risks for a specific case, such as the HJBL, under different scenarios.
 :::
 
-The [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) report describes the various ways models are used to estimate or project changes in nature and nature's benefits (ecosystem services) arising from observed or hypothesized changes in drivers, for status-and-trend assessment (depicted in blue-green); plausible trajectories of drivers, for exploratory scenario analysis (depicted in red); possible policy interventions, for intervention scenario analysis (depicted in orange); or implemented policy interventions, for ex-post scenario analysis (depicted in purple).
+The [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) report describes the various ways models are used to estimate or project changes in nature and nature's benefits (ecosystem services) arising from observed or hypothesized changes in drivers, for status-and-trend assessment (depicted in blue-green, see **figure below**); plausible trajectories of drivers, for exploratory scenario analysis (depicted in red); possible policy interventions, for intervention scenario analysis (depicted in orange); or implemented policy interventions, for ex-post scenario analysis (depicted in purple).
 
-```{r , echo=FALSE, warning=FALSE, error=FALSE, message=FALSE, fig.align='center'}
-
-knitr::include_graphics("C:/GEOBON_Toolbox/Figures/Fig2. The role of models.png")
-
-
-```
+![](Figures/Fig2.%20The%20role%20of%20models.png){fig-align="center"}
 
 ## 3. What is in the Toolbox?
 
-Integrating and operationalizing multiple elements from the Toolbox will allow partners working and living in a region evaluating alternative intervention policies and/or management strategies under multiple scenarios to provide relevant and strategic information for decision-making.
+We follow the ([IPBES 2016](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and)) framework to structure all these sections in this toolbox. Integrating and operationalizing multiple sections from the toolbox will allow partners working and living in a region evaluate alternative intervention policies and/or management strategies under multiple scenarios to provide relevant and strategic information for decision-making.
 
-::: {.callout-caution collapse="true"}
-## This Toolbox is our first approximation!
+Each section contains a description, including case studies and useful links for further readings. We also provide on each section important findings and some guidance to operationaliza furhter actions. These findings and guidance come from two sources: a workshop held in Montreal in October 2023 whith multiple partners working and living in the HJBL and a literature review.
 
-We compiled and synthesized knowledge from an array of models, tools, scenarios, assessments and observatories that can be used and/or adapted to understand biodiversity change and ecosystem services assessments in a region.
+We acknowledge that there may be models, tools, approaches and other means out there that escaped this review, while noting that there are some biophysical components and ecosystem services that were more explored and covered than others. So, further efforts should focus on tackling these gaps and updating models and tools when possible.
 
-We acknowledge that there may be models and tools out there that escaped this review, while noting that there are some biophysical components and ecosystem services that were more explored and covered than others. So, **further efforts should focus on tackling these gaps and updating models and tools when possible**.
-:::
+::: {.panel-tabset .tabset-pills}
+###### Planning
 
-::: panel-tabset
-### Planning
+Before you start digging into models, tools and other means, take your time to ask yourself **what do you want to accomplish and what do you need for that**.
 
-Before you start digging into models, tools and other means, take your time to ask yourself **what do you want to accomplish and what you need for that**. In this section we provide a preliminary Planning Tool Form to:
+We are working to provide an interactive tool for planning your initiative. In the **example below** partners will have the opportunity to design their projects and have a road map to track planning and implementation. [**This section is under construction!**]{style="color:red;"}
 
-&&&&&& **This section is under construction!**) &&&&
+![***An example of planning a project** using the [IPBES (2016)](https://www.ipbes.net/document-library-catalogue/methodological-assessment-report-scenarios-and-models-biodiversity-and) framework (note: GEO BON is planning to develop a tool where partners can select potential models, tools, scenarios, etc., according to their needs.*](Figures/Planning%20tool.jpg){fig-align="center" width="1100"}
 
--   Set your questions, objective, goals
+###### Weaving
 
--   Select facets of biodiversity
-
--   Select ecosystem services to assess
-
--   Select physical features you want to evaluate
-
--   Select potential scenarios you might want to evaluate
-
--   Select models and tools that might help you to respond your questions and evaluate your scenarios.
-
--   Select preliminary data sets you might want to include
-
-### Weaving & Observatories
-
-**Weaving Multiple Knowledge Systems:** Here we provide some fundamental ideas and approaches to help partners <a href='/Weaving.html'>weaving multiple knowledge systems</a> in this endeavor of protecting biodiversity and sustainable managing ecosystems services.
+**Weaving Multiple Knowledge Systems:** Here we provide some fundamental ideas and approaches to help partners <a href='/Weaving.html'>weaving multiple knowledge systems</a> in this endeavor of protecting biodiversity and managing ecosystems services.
 
 **Observatories:** It includes global and regional <a href='/Observatories.html'>observatories</a> that can support multiple partners in the region. We encourage partners to identify potential local initiatives that can serve as a local hubs partnering with national and global observatories.
 
-### Scenarios
+###### Scenarios
 
 We provide a review of two main <a href='/Scenarios.html'>Scenarios</a> approaches (top-down and bottom-up) that can help partners to describe and assess narratives of possible futures.
 
-### Models & Tools
+###### Models & Tools
 
+::: scrolling
 This is a compilation of <a href='/Models & Tools.html'>models and tools</a> to measure or assess some facet of biodiversity, physical features and ecosystem services. Again, it is a growing list and we expect contributions from the GEO BON community.
 
 We included in this section a preliminary list of global and regional data sets that can support biodiversity and ecosystem services modeling and assessment. This is not an exhaustive list of data sets and we expect it will grow with support of the GEO BON community. We also expect national and local partners to contribute and help growing this section. Knowing what type of data and where these data sets are available will facilitate the whole process.
@@ -137,23 +115,144 @@ We included in this section a preliminary list of global and regional data sets 
 
 -   [BF-7: Water](BF-7_Water.html)
 
+-   [BF-8: Fire regimes](BF-8_Fires.html)
+
 **Ecosystem services (ESs)**
 
 -   [ES-1: Ecosystem services](ES_Ecosystem%20Services.html).
 
-**Tools for spatial prioritization (Tools-SP)**
+**Spatial prioritization (SP)**
 
 -   [SP: Spatial prioritization](SP_Spatial%20Prioritization.hmtl)
+:::
 
-### Approaches
+###### Approaches
 
 Biodiversity conservation and ecosystem services management requires the implementation of multiple approaches to achieve desired goals and targets. However, the integration of multiple models and multiple components from social, economic and biophysical system is a necessity to understand the complexity, interactions and feed backs.
 
 These approaches (see [Approaches](Approaches.html) section) span from species-specific and area-based approaches to multi-objective and scenario assessments.
+
+###### The region
+
+We describe the main biophysical, socioeconomic and cultural systems in [**the Hudson James Bay Lowlands (HJBL)**](The%20region.html).
 :::
 
 ## 4. Contributors
 
-In construction!
+::: {.callout-note .scrolling collapse="true"}
+## Workshop list of participants & contributors to the document
 
-Include list of workshop's participants and highlight who has contributed to the main document.
+**GEO BON - Parks Canada workshop Hudson-James Bay Lowlands (Oct 16-17, 2023, in Montreal)**
+
+Contributors to the main document in **BOLD**
+
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|        | **Name**                 | **Some links to know more about participants**                                                                                                                                                                                         |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | **(Please let us know if you want to add/change your links)**                                                                                                                                                                          |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1      | Adam Collingwood         | Parks Canada (Lead Geoinformation Scientist)                                                                                                                                                                                           |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2      | Adriana Radulovici       | [GEO BON (Executive Secretary and workshop administrator)](https://geobon.org/geo-bon-executive-secretary-adriana-radulovici/https://geobon.org/geo-bon-executive-secretary-adriana-radulovici/)                                       |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3      | **Ágnes Vári**           | McGill University, [Gonzalez lab](https://www.thegonzalezlab.org/)                                                                                                                                                                     |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | GEO BON supporting team                                                                                                                                                                                                                |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4      | **Amanda Schwantes**     | [University of Toronto](https://aschwantes.weebly.com/)                                                                                                                                                                                |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | GEO BON supporting team                                                                                                                                                                                                                |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5      | **Andrew Gonzalez**      | [GEO BON (Co-chair)](https://geobon.org/)                                                                                                                                                                                              |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [McGill University](https://www.thegonzalezlab.org/)                                                                                                                                                                                   |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6      | **Catherine A. Farrell** | Research Fellow at  [Trinity College Dublin](https://www.tcd.ie/Botany/people/catherine_f.php)                                                                                                                                         |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | Project Manager at National Parks and Wildlife Service, Ireland.                                                                                                                                                                       |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [INCASE project](https://www.incaseproject.com/), [LIFE on Machair](https://www.lifeonmachair.ie/)                                                                                                                                     |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7      | **Christy Caudill**      | Carleton University                                                                                                                                                                                                                    |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [Geomatics and Cartographic Research Center](https://gcrc.carleton.ca/index.html)                                                                                                                                                      |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8      | Cristina Miranda         | Université de Montréal                                                                                                                                                                                                                 |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9      | Dianna Kopansky          | UN-Environment Programme                                                                                                                                                                                                               |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [Global Peatland initiative](https://globalpeatlands.org/research-working-group),                                                                                                                                                      |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [International Tropical Peatland Center](https://www.tropicalpeatlands.org/speaker/dianna-kopansky/)                                                                                                                                   |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | (Dianna will join the workshop virtually)                                                                                                                                                                                              |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10     | Dominique Henri          | [Environment and Climate Change Canada (ECCC)](https://profils-profiles.science.gc.ca/en/profile/dr-dominique-henri)                                                                                                                   |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 11     | **Flavio Affinito**      | McGill University, [Gonzalez lab](https://www.thegonzalezlab.org/)                                                                                                                                                                     |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | GEO BON supporting team                                                                                                                                                                                                                |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12     | Gilles Seutin            | Parks Canada (Chief Scientist)                                                                                                                                                                                                         |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 13     | Isaac Eckert             | McGill University,                                                                                                                                                                                                                     |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | GEO BON supporting team                                                                                                                                                                                                                |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 14     | Jason Duffe              | [Environment and Climate Change Canada (ECCC),](https://profils-profiles.science.gc.ca/en/profile/jason-duffe)                                                                                                                         |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [Geomatics Research Lab Manager](https://profils-profiles.science.gc.ca/en/profile/jason-duffe)                                                                                                                                        |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 15     | Jessica Andrews          | Stats Canada                                                                                                                                                                                                                           |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 16     | Josie Hughes             | ECCC-Landscape Ecology Research                                                                                                                                                                                                        |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 17     | **Juan Zuloaga**         | GEO BON (Workshop Science Coordinator)                                                                                                                                                                                                 |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | McGill University, [Gonzalez lab](https://www.thegonzalezlab.org/)                                                                                                                                                                     |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 18     | Karen Richardson         | Parks Canada (Senior Scientist)                                                                                                                                                                                                        |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 19     | **Katie Millete**        | [GEO BON (Science Officer)](https://geobon.org/)                                                                                                                                                                                       |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 20     | Kristell Hergoualc'h     | [Center for International Forestry Research (CIFOR](https://www.cifor.org/research-staff/2785/kristell-hergoualch)) [CIRAD France](https://www.cirad.fr/en/about-us/cirad-in-a-nutshell)                                               |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 21     | Laura Pollock            | [McGill University](https://qbiodiversity.org/)                                                                                                                                                                                        |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 22     | Lawrence Martin          | [Mushkegowuk Council](https://mushkegowuk.ca/)                                                                                                                                                                                         |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 23     | Lynn Jacobs              | Kahnawà:ke Mohawk Territory                                                                                                                                                                                                            |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 24     | Mabel Baez Schon         | [Natural capital postdoc fellow WWF](https://www.linkedin.com/in/mabel-baez-schon/), [Collaborative Network for Valuing Earth Information](https://www.worldwildlife.org/projects/collaborative-network-for-valuing-earth-information) |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 25     | Marc Valois              | Facilitator ([Intersol](https://intersol.ca/team/marc-valois/))                                                                                                                                                                        |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 26     | **Marie Josée Fortin**   | [University of Toronto](https://fortin.eeb.utoronto.ca/)                                                                                                                                                                               |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 27     | Mary O'Connor            | [University of British Columbia](http://oconnorlab.weebly.com/people.html)                                                                                                                                                             |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 28     | Michelle Garneau         | [Université du Québec à Montréal (UQAM)](https://www.geotop.ca/fr/taxonomy/term/137)                                                                                                                                                   |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 29     | Murray Humphries         | [McGill University](https://www.mcgill.ca/nrs/academic-0/humphries)                                                                                                                                                                    |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [Canadian Mountain network](https://www.canadianmountainnetwork.ca/)                                                                                                                                                                   |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 30     | Myrle Ballard            | [Environment and Climate Change Canada (ECCC)](https://science.gc.ca/site/science/en/blogs/science-behind-scenes/introducing-ecccs-new-director-indigenous-science)                                                                    |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | University of Manitoba                                                                                                                                                                                                                 |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 31     | Patrick Valois           | Intersol (writer)                                                                                                                                                                                                                      |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 32     | **Peter Pulsifer**       | Carleton University                                                                                                                                                                                                                    |
+|        |                          |                                                                                                                                                                                                                                        |
+|        |                          | [Geomatics and Cartographic Research Center](https://gcrc.carleton.ca/index.html)                                                                                                                                                      |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 33     | Sam Hunter               | Weenusk First Nation                                                                                                                                                                                                                   |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 34     | Sarah Finkelstein        | [University of Toronto](https://utpaleolab.wordpress.com/)                                                                                                                                                                             |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 35     | Shari Hayne              | ECCC-Landscape Ecology Research                                                                                                                                                                                                        |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 36     | **Simon Ferrier**        | [CSIRO (Australia, Chief Research Scientist)](https://people.csiro.au/F/S/Simon-Ferrier)                                                                                                                                               |
++--------+--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::

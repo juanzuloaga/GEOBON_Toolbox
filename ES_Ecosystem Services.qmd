@@ -1,0 +1,236 @@
+---
+title: "ES: Ecosystem Services"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+css:  styles.css
+---
+
+::: panel-tabset
+## Introduction
+
+[**This section is under construction!**]{style="color:red;"}
+
+"Ecosystem services are the benefits people obtain from ecosystems. These include provisioning services such as food and water; regulating services such as regulation of floods, drought, land degradation, and disease; supporting services such as soil formation and nutrient cycling; and cultural services such as recreational, spiritual, religious and other nonmaterial benefits... Changes in these services affect human well-being in many ways" ([Millenium Ecosystem Assessment](https://www.millenniumassessment.org/en/index.html)).
+
+The main types of ecosystem services described by the [Millenium Ecosystem Assessment](https://www.millenniumassessment.org/en/index.html) are:
+
+-   **Provisioning services** are the products people obtain from ecosystems, such as food, fuel, fiber, fresh water, and genetic resources.
+
+-   **Regulating services** are the benefits people obtain from the regulation of ecosystem processes, including air quality maintenance, climate regulation, erosion control, regulation of human diseases, and water purification.
+
+-   **Cultural services** are the nonmaterial benefits people obtain from ecosystems through spiritual enrichment, cognitive development, reflection, recreation, and aesthetic experiences.
+
+-   **Supporting services** are those that are necessary for the production of all other ecosystem services, such as primary production, production of oxygen, and soil formation.
+
+Linkages between Ecosystem Services and Human Well-being are also described in the [Millenium Ecosystem Assessment](https://www.millenniumassessment.org/en/index.html) and depicted in the figure below:
+
+![***Types of ecosystem Services** (Source: [Millenium Ecosystem Assessment](https://www.millenniumassessment.org/en/index.html), the description of the figure is: Linkages between Ecosystem Services and Human Well-being. This Figure depicts the strength of linkages between categories of ecosystem services and components of human well-being that are commonly encountered and includes indications of the extent to which it is possible for socioeconomic factors to mediate the linkage. (For example, if it is possible to purchase a substitute for a degraded ecosystem service, then there is a high potential for mediation.) The strength of the linkages and the potential for mediation differ in different ecosystems and regions. In addition to the influence of ecosystem services on human well-being depicted here, other factors---including other environmental factors as well as economic, social, technological, and cultural factors---influence human well-being, and ecosystems are in turn affected by changes in human well-being.).*](https://farm1.staticflickr.com/309/32212453272_6e58aff43e_b.jpg){fig-align="center"}
+
+Ecosystem services are the product of ecosysmem processes that the biophysical system support.
+
+![***Biophysical, social-economic and cultural system framing ecosytsem services** (typology for the classification of ecosystem services from [Groot et al. 2002](https://www.sciencedirect.com/science/article/pii/S0921800902000897?casa_token=5DDjFK2q70oAAAAA:ioxyJlwu2F1AN4_fz56BsZ6Fm2cg1dBXnEaS76oqrwLhp4CW7MvSmz4m31H7uvwJgTlpRFmHjYw)). Notice this is an simplified example of some drivers of change, management and governance (hexagons); as well as, some biophysical elements (orange boxes) interacting (black thin arrows) to sustain ecological processes (dark green boxes) that in turn offer ecosystem services (magenta boxes), affecting human well-being (light green boxes). Red arrows describe relationships and feed backs from and to all systems.*](Figures/flow_bio_es%20models.jpg){fig-align="center" width="600"}
+
+## Models
+
+[**This section is under construction!**]{style="color:red;"}
+
+::: {.callout-note collapse="true"}
+## Multi-objective land-use optimization/allocation
+
+Multi-objective land-use optimization/allocation ([Kaim et al. 2018](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00103/full#B25), [Strauch et al. 2019](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00103/full#B55)), where metaheuristic search algorithms can be combined with statistical and/or simulation models (e.g., hydrological, biodiversity, or socio-economic models) to efficiently explore a large number of land-use configurations with respect to their potential to minimize trade-offs among multiple, and often competing objectives.
+:::
+
+::: {.callout-note collapse="true"}
+## Agent-based models (ABMs)
+
+"Agent-based models (ABM) are used to analyze the influence of the behavior of individual agents (farmers, households, consumers) on the emergent properties of the system (e.g., landscape) in a dynamic way. This model type can and has been used to generate realistic representations of factors such as preferences, social interactions, policies, property rights and markets ([Schlüter et al. 2017](https://www.sciencedirect.com/science/article/abs/pii/S0921800915306133), [Huber et al. 2018](https://www.sciencedirect.com/science/article/abs/pii/S0308521X17309228)). ABM are usually spatially and temporally explicit, and they can account for path dependencies and (social--technological) lock-ins. When applied to model land-use change, the results of ABM are strongly dependent on assumptions regarding agents' behavior, their interactions and the social, economic and institutional boundary conditions" ([Bartkowski et al. 2020](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00103/full#B21)).
+:::
+
+::: {.callout-note collapse="true"}
+## The Multiscale Integrated Model of Ecosystem Services (MIMES)
+
+See [Boumans et al. (2015)](https://www.sciencedirect.com/science/article/abs/pii/S2212041615000054): aimed to include spatial dynamics of interaction between human activities and ecosystems.
+
+See also [IPBES Policy Support Tool](https://www.ipbes.net/policy-support/tools-instruments/multi-scale-integrated-models-ecosystem-services-mimes)
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
+| Models/Approaches | Have they been used? | In Canada? |
+|-------------------|----------------------|------------|
+|                   |                      |            |
+:::
+
+::: {.callout-note collapse="true"}
+## Aquatic systems & Fisheries: Ecopath with Ecosim (EwE)
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
+| Models/Approaches | Have they been used? | In Canada? |
+|-------------------|----------------------|------------|
+|                   |                      |            |
+:::
+
+::: {.callout-note collapse="true"}
+## Scenario assessment
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
+| Models/Approaches | Have they been used? | In Canada? |
+|-------------------|----------------------|------------|
+|                   |                      |            |
+:::
+
+Review this : [Turner et al. (2016)](https://www.sciencedirect.com/science/article/abs/pii/S0304380015003233?via%3Dihub), [Kovacs et al. (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062202)
+
+## Tools
+
+Ecosystem services tools such as [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)™, [ARIES](https://aries.integratedmodelling.org/), and [Co\$tingNature](https://www.policysupport.org/costingnature) are available to quantify trade-offs among multiple ecosystem services (in particular for carbon storage-soil pools). These tools can integrate complex interactions and beneficiaries ([Thierry et al. 2021](https://www.facetsjournal.com/doi/10.1139/facets-2020-0116)) under various scenarios (e.g., climate change, land cover change, urban growth, management interventions, etc.; see for instance: [Brown et al. 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122721)).
+
+Other tools are also available such as The Land Utilisation and Capability Indicator (LUCI, and its next generation named [Nature Braid](https://naturebraid.org/)).  An example of its functionality is reported by [Pereira et al. (2023)](https://www.mdpi.com/2073-445X/12/6/1243#B25-land-12-01243) and for Nature-Based Flood Water Management in Vietnam ([Dang et al. 2021](https://pdfs.semanticscholar.org/10d9/dcd78ea31bff26e34814adf7c4c773167008.pdf)). The [Social Values for Ecosystem Services (SolVES)](https://www.usgs.gov/centers/geosciences-and-environmental-change-science-center/science/social-values-ecosystem)tool has also been used by the USGS service.
+
+Below we describe the major spatially-explicit ecosystem services platforms ([InVEST](https://naturalcapitalproject.stanford.edu/software/invest)™, [ARIES](https://aries.integratedmodelling.org/) and [Co\$tingNature](https://www.policysupport.org/costingnature)) and the ensemble of carbon storage models as a way to enhance accuracy compared with single models. We also present some case studies highlighting the use of these models and tools for ecosystem services accounting with other spatial prioritization tools such as Marxan and Zoation.
+
+::: {.callout-note collapse="true"}
+## InVEST™
+
+::: scolling
+"[InVEST](https://naturalcapitalproject.stanford.edu/software/invest)™ is a suite of free, open-source [software models](https://naturalcapitalproject.stanford.edu/software/invest/invest-models) used to map and value the goods and services from nature that sustain and fulfill human life.  If properly managed, ecosystems yield a flow of services that are vital to humanity, including the production of goods (e.g., food), life-support processes (e.g., water purification), and life-fulfilling conditions (e.g., beauty, opportunities for recreation), and the conservation of options (e.g., genetic diversity for future use)." ([Natural Capital Project](https://naturalcapitalproject.stanford.edu/software/invest/invest-models), and a review by [Mukhopadhyay et al. 2024](https://www.sciencedirect.com/science/article/abs/pii/S1642359324000740?casa_token=BVFbAR-JNBUAAAAA:ZvMAP3nh6sJYxhjBcO8TpXZJOOa8WbbGGFXHot3gk8zFqsFcsZqvxYSLqKDiiU83O9R9monl91s)).
+
+One of the InVEST models is the [Carbon Storage and Sequestration](https://naturalcapitalproject.stanford.edu/invest/carbon) model that incorporates four carbon pools (i.e., aboveground living biomass, belowground living biomass, soil, and dead organic matter) and a land cover map (see [how it works](http://releases.naturalcapitalproject.org/invest-userguide/latest/en/carbonstorage.html)).
+
+The [Carbon Storage and Sequestration](https://naturalcapitalproject.stanford.edu/invest/carbon) model is a very simple model that maps carbon pools within a land cover map:
+
+Data inputs: [Land cover and land use map (LCLU)](https://storage.googleapis.com/releases.naturalcapitalproject.org/invest-userguide/latest/en/data_sources.html#lulc) along with stocks in [carbon pools](https://storage.googleapis.com/releases.naturalcapitalproject.org/invest-userguide/latest/en/data_sources.html#carbon-pools) (aboveground biomass, belowground biomass, soil, and dead organic matter). 
+
+Outputs: Raster metric (tons per hectare (t/ha)). 
+
+Limitations reported from [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)™: 
+
+-   "Limitations of the model include an oversimplified carbon cycle, an assumed linear change in carbon sequestration over time, and potentially inaccurate discounting rates."
+
+-   "Biophysical conditions important for carbon sequestration such as photosynthesis rates and the presence of active soil organisms are also not included in the model.
+
+-   "\...because the model relies on carbon storage estimates for each LCLU type, the results are only as detailed and reliable as the LCLU classification used and carbon pool values supplied."
+
+-   "\...the model is that it does not capture carbon that moves from one pool to another."
+
+\
+The Natural Capital Project tracks publications around the world that have used InVEST (Mandle, Lisa and Natural Capital Project 2023, [database](https://purl.stanford.edu/bb284rg5424)), reporting 204 publications (out of 1205, since 2008) using the [Carbon storage and sequestration](https://naturalcapitalproject.stanford.edu/invest/carbon) model. In North America, 114 publications were in the US and 1 in Canada by [Doyle et al. (2013)](https://www.researchgate.net/profile/Christian-Malouin-3/publication/260508686_Toward_an_Ecosystem_Potential_Index_for_Canada_EPIC_A_Boreal_Case_Study/links/02e7e5317337e307a1000000/Toward-an-Ecosystem-Potential-Index-for-Canada-EPIC-A-Boreal-Case-Study.pdf) (it proposes an Ecosystem Potential Index for Canada (EPIC) in the boreal region; however, a close look at the study shows that they mentioned InVEST but did not apply it).
+:::
+:::
+
+::: {.callout-note collapse="true"}
+## ARIES
+
+::: scolling
+"[ARIES](https://aries.integratedmodelling.org/) is an artificial intelligent modeler rather than a single model or collection of models. ARIES chooses ecological process models where appropriate, and turns to simpler models where process models do not exist or are inadequate. Based on a simple user query, ARIES builds all the agents involved in the nature/society interaction, connects them into a flow network, and creates the best possible models for each agent and connection. The result is a detailed, adaptive, and dynamic assessment of  how nature provides benefits to people." ([ARIES](https://aries.integratedmodelling.org/), see [Villa et al. 2014](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091001) for methods).
+
+The ARIES team is developing an interactive platform for the United Nations System of Environmental Economic Accounting for Ecosystem Accounting ([ARIES for SEEA](https://aries.integratedmodelling.org/aries-for-seea-explorer/), see also [UN-SEEA](https://seea.un.org/ecosystem-accounting)). "The current Explorer functionalities are restricted to assessing ecosystem 1. extent (based on the [IUCN Global Ecosystem Typology](https://portals.iucn.org/library/sites/library/files/documents/2020-037-En.pdf)), 2. condition (for forest ecosystem types), and 3. selected ecosystem services in physical and monetary units using basic models as a starting point. The outcomes can be analyzed and downloaded to further explore the results (either through a spreadsheet or GIS software)" ([ARIES for SEEA](https://aries.integratedmodelling.org/aries-for-seea-explorer/), see [UN Global Platform to access the application](https://unstats.un.org/bigdata/un-global-platform.cshtml)).
+
+The SEEA is well-positioned to support the Global Biodiversity Framework under the auspices of the Convention on Biological Diversity (CBD) (see [SEEA and the CBD](https://seea.un.org/content/biodiversity)).  SEEA has also created a new subgroup on [Accounting for Biodiversity in the SEEA EEA](https://seea.un.org/content/accounting-biodiversity), "to better understand the connection of biodiversity from ecosystem extent and condition to ecosystem services, economic activity and well-being, and vice versa, as well as to support policy and decision making concerning the conservation and enhancement of biodiversity at all levels including ecosystems".
+
+Data inputs: Land cover type link to carbon storage data
+
+Outputs: Spatially explicit areas 
+
+Limitations: From [Villa et al. (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091001): "The question of how completely such nonlinear dynamics can be realistically represented by ES assessment methods remains paramount."
+
+**Examples of weaving multiple knowledge systems in SEEA**
+
+Collaborative engagement is recognized by the System of Environmental Economic Accounting (SEEA), and two actions are recommended: 
+
+\(1\) including recognition of Indigenous values as a new item on the SEEA-EA research agenda, and;
+
+\(2\) that Indigenous Peoples be part of the UN processes governing the development of the SEEA-EA ([Normyle et al. 2022](https://www.nature.com/articles/s41599-022-01149-w#:~:text=A%20key%20difference%20between%20Indigenous,et%20al.%2C%202021).), see also [Normyle et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S2212041622000985)).
+
+There are some examples investigating Indigenous Peoples' perspective on the potential application of SEEA-EA to support cultural and environmental management.  For instance, [Normyle et al. (2022)](https://link.springer.com/article/10.1007/s13280-022-01746-8) working with IP in Australia "highlight that while the SEEA-EA may be a valuable tool for empowering Indigenous people and supporting the management of their lands and seas, there are areas where the SEEA-EA needs to be broadened to better reflect cultural values, and the services to ecosystems provided by Indigenous peoples".
+:::
+:::
+
+::: {.callout-note collapse="true"}
+## Co\$tingNature
+
+::: scolling
+"Co\$tingNature is a sophisticated  web-based spatial policy support system for natural capital accounting and analyzing the ecosystem services provided by natural environments (i.e. nature's benefits), identifying the beneficiaries of these services and assessing the impacts of human interventions. The Policy Support System (PSS) incorporates detailed spatial datasets at 1-square km and 1 hectare resolution for the entire World, spatial models for biophysical and socioeconomic processes along with scenarios for climate and land use. The PSS calculates a baseline for current ecosystem service provision and allows a series of interventions (policy options) or scenarios of change to be used to understand their impact on ecosystem service delivery. We do not focus on valuing nature (how much someone is willing to pay for it) but rather costing it (understanding the resource e.g. land area and opportunity cost of nature being protected to produce the ecosystem services that we need and value)" ([Co\$tingNature](https://www.policysupport.org/costingnature), [Policy Support Systems-PSS](https://www.policysupport.org/home)).
+
+[Co\$tingNatureMapBeta](http://www1.policysupport.org/cgi-bin/ecoengine/pssmap.cgi?project=CNMap&action=Map) provides results from the Co\$tingNature Policy Support System globally (10km resolution) and regionally (1km resolution) for current baseline and selected scenarios,  including 18 ecosystem services, biodiversity, current and future human pressure; and nature's contribution to achieving the SDGs, individually and collectively. Some modules of the Co\$tingNature have been used to simulate future land cover change scenarios to understand its effect on biodiversity ([Brown et al. 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122721)).
+
+Data inputs: Multiple layers, including land cover, climate, human pressure, soil carbon
+
+Outputs: Spatially explicit areas (e.g., nature's contribution to SDGs targets)
+:::
+:::
+
+[**This section is under construction!**]{style="color:red;"}
+
++-------------------------------+----------------------------------------------------------------------------------------------------------------+--------------+
+| Purpose                       | Tools                                                                                                          | Supporting   |
+|                               |                                                                                                                |              |
+|                               |                                                                                                                | Organization |
++===============================+================================================================================================================+==============+
+| Ecosystem Services Assessment | [Ecosystem Services Toolkit](https://publications.gc.ca/collections/collection_2017/eccc/En4-295-2016-eng.pdf) |              |
++-------------------------------+----------------------------------------------------------------------------------------------------------------+--------------+
+| Review in Canada              | Ecosystem services decision support tools                                                                      |              |
+|                               |                                                                                                                |              |
+|                               | [Kerr et al. (2021)](https://www.facetsjournal.com/doi/10.1139/facets-2020-0090)                               |              |
++-------------------------------+----------------------------------------------------------------------------------------------------------------+--------------+
+|                               |                                                                                                                |              |
++-------------------------------+----------------------------------------------------------------------------------------------------------------+--------------+
+
+## Partners
+
+[**This section is under construction!**]{style="color:red;"}
+
+## Datasets
+
+[**This section is under construction!**]{style="color:red;"}
+
++-------------+-----------------------+-------------+-----------+
+| Description | Repository and Layers | Extent,     | Reference |
+|             |                       |             |           |
+|             |                       | Format,     |           |
+|             |                       |             |           |
+|             |                       | Resolution, |           |
+|             |                       |             |           |
+|             |                       | Projection  |           |
++=============+=======================+=============+===========+
+|             |                       |             |           |
++-------------+-----------------------+-------------+-----------+
+
+## Guidance for action
+
+[**This section is under construction!**]{style="color:red;"}
+
+We recommend multi-objective approaches that combine ecosystem services and multiple facets of biodiversity (e.g., biodiversity and carbon storage co-benefits) under multiple global, national, local scenarios for the HJBL.
+
+Biodiversity and carbon storage
+
+-   Identify overlapping and complementary spatial priorities at regional, biome, and national levels. Then, identify opportunities for spatial planning that coincide with these overlaps to inform policy, goals, and targets at multiple levels.
+-   Combine knowledge from multiple ongoing analyses. For instance, various NGOs have developed similar multi-objective approaches to highlight areas of high conservation value ([WWF](https://wwf.ca/beyond-targets/)).
+-   The map of overlap between areas of high carbon storage and faunal refugia developed by ([Carroll & Ray 2021](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15645)) can be augmented using soil carbon maps from regional studies performed by [Sothe et al. (2021)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB007213).
+
+There are multiple ecosystem accounting platforms (InVEST, ARIES, and Co\$tingNature) and other spatial prioritization tools (Marxan and Zonation) ready to use in the HJBL for ecosystem services assessment, prioritization, and scenario evaluation. [Bon in a Box](https://boninabox.geobon.org/)offers a set of models for these purposes (e.g., SDMs), and also extended capabilities to add new modules to automate the process and handle huge amounts of data sets organized in STAC Catalogs.
+
+Biodiversity and free-flowing rivers
+
+-   Update the CSI for the HJBL based on new data sets for the region and link to other metrics of water flows and water quality. 
+
+-   The CSI and other anthropogenic impact metrics (e.g., [Southee et al. 2021](https://www.facetsjournal.com/doi/10.1139/facets-2020-0015)) combined with freshwater fisheries metrics and others (eDNA, stable isotope analysis, etc.) can provide key information for biodiversity conservation planning at basins and sub-basins levels ([Southee et al. 2021](https://www.facetsjournal.com/doi/10.1139/facets-2020-0015), [Chu et al. 2014](https://www.researchgate.net/publication/268214051_An_updated_assessment_of_human_activities_The_environment_And_freshwater_fish_biodiversity_in_Canada), [Anas & Mandrakl 2021](https://tspace.library.utoronto.ca/bitstream/1807/110102/1/cjfas-2020-0396.pdf)), improve management  to enhance freshwater conservation effectiveness ([Acreman et al. 2019](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12684), [Puzyreva et al. 2022](https://www.iisd.org/system/files/2022-12/seal-river-watershed-case-for-conservation.pdf), [Heino and Koljonen 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12142)) and monitoring ([Turner et al. 2023](https://academic.oup.com/bioscience/article-abstract/73/7/479/7233539?redirectedFrom=fulltext&utm_source=etoc&utm_campaign=bioscience&utm_medium=email)).
+
+Biodiversity and traditional wildfoods
+
+-   Weave multiple knowledge systems and co-governance practices to assess approaches for freshwater fisheries management and biodiversity conservation (see [Frid et al. 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12778)).
+
+-   Build evidence of the importance of wild foods and foraging to inform conservation management and policy at different government levels (e.g., [Borelli et al. 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7601573/), [Ray et al. 2020](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00056/full), [Kuhnlein & Chotiboriboon 2022](https://www.frontiersin.org/articles/10.3389/fsufs.2022.808670/full), [Khoury et al. 2019](https://www.sciencedirect.com/science/article/pii/S1470160X18308781)).
+:::

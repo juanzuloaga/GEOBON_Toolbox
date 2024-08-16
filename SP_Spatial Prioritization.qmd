@@ -1,0 +1,162 @@
+---
+title: "SP: Spatial Prioritization"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+css:  styles.css
+---
+
+::: panel-tabset
+## Introduction
+
+[**This section is under construction!**]{style="color:red;"}
+
+Identifying priority areas for biodiversity conservation and ecosystem services and evaluating how multiple conservation goals might be achieved efficiently are part of the systematic conservation planning framework that requires spatial prioritization tools ([Moilanen et al. 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13819#:~:text=Spatial%20(conservation)%20prioritization%20integrates%20data,impact%20avoidance%20outside%20protected%20areas.), [Kukkala & Moilanen 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12008), [Moilannen et al. 2006](https://www.sciencedirect.com/science/article/abs/pii/S0304380006003127)). Spatial prioritization methods can simultaneously balance the needs of many biodiversity features or ES, aiming at solutions that combine different spatial needs. Commonly used tools such as Zonation and Marxan are being used for multicriteria spatial prioritization that includes multiple ecosystem services and measures of biodiversity and ecological integrity (e.g. connectivity).
+
+![***Schematic illustration of the process of spatial prioritization**, with entry points for connectivity considerations (From [Kukkala & Moilanen 2017](https://link.springer.com/article/10.1007/s10980-016-0446-y)). Spatial prioritization methods can simultaneously balance the needs of many biodiversity features or ES, aiming at solutions that combine different spatial needs.*](Figures/Spatial%20prioritization.png){fig-align="center" width="500"}
+
+::: {.callout-note collapse="true"}
+## Some applications in Canada
+
+Multiple approaches exist to prioritize terrestrial, marine and freshwater areas, that best represent one (e.g., protect as many species as possible, e.g., [Ceballos & Ehrlich 2006](https://www.pnas.org/doi/10.1073/pnas.0609334103#:~:text=Species%20richness%20was%20defined%20as,species%20in%20a%20single%20cell.)) or multiple facets of biodiversity (e.g., [Brum et al. 2017](https://www.pnas.org/doi/10.1073/pnas.1706461114)). These approaches are usually developed to achieve global conservation targets (e.g., conserve at least 30% of land by 2030; [Dinerstein et al., 2019](https://www.science.org/doi/10.1126/sciadv.aaw2869); [Belote et al. 2021](https://www.sciencedirect.com/science/article/pii/S0006320721004304#:~:text=Protecting%20biodiversity%20requires%20consideration%20of,richness%20alone%20represent%20alpha%20diversity.), [Carroll & Noss 2021](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13869)) from regional (e.g., [Mallory & Boyce 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4915)) to national (e.g., [Belote et al. 2021](https://www.sciencedirect.com/science/article/pii/S0006320721004304)) and global scales (e.g., [Strassburg et al. 2020](https://www.nature.com/articles/s41586-020-2784-9)), depending on the conservation scope and data availability.
+
+In Canada, spatial prioritization has been used for biodiversity conservation for multiple biodiversity facets and also to address multiple environmental threats. Some of them have been implemented and have formal institutional support. For instance:
+
+-   Indigenous Protected and Conserved Areas (IPACs; [Shwan-Fletcher et al. 2021](https://www.pnas.org/doi/10.1073/pnas.2022218118), [Tran et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0006320719308456), [Garnett et al. 2018](https://www.researchgate.net/publication/326424629_A_spatial_overview_of_the_global_importance_of_Indigenous_lands_for_conservation), [Moola & Roth 2018](https://cdnsciencepub.com/doi/full/10.1139/er-2018-0091)).
+
+-   [Important Birds Areas (IBAs)](https://www.ibacanada.ca/mapviewer.jsp?lang=EN).
+
+-   [Key Biodiversity Areas (KBAs)](https://kbacanada.org/): from species to ecosystems.
+
+-   Other Effective area-based Conservation Measures (see [Canada](https://www.canada.ca/en/environment-climate-change/services/nature-legacy/other-effective-area-based-measures.html)) .
+
+-   Critical Ecosystem Areas (operational methodology proposed by [Venegas et al. 2023](https://www.biorxiv.org/content/10.1101/2023.05.03.539215v1)).
+
+-   Endemic species for conservation ([Kraus et al. 2022](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.12845)).
+
+-   Species at risk:
+
+    -   [Pan-Candian approach 2023](https://www.canada.ca/en/services/environment/wildlife-plants-species/species-risk/pan-canadian-approach.html#fn1)
+
+    -   [SARA-COSEWIC](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports.html),\*\*
+
+    -   [aquatic species at risk](https://www.dfo-mpo.gc.ca/species-especes/sara-lep/map-carte/index-eng.html)\*\*
+
+    -   [Critical Habitat for Species at Risk National Dataset - Canada](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74), [visualize it here](https://livingatlas-dcdev.opendata.arcgis.com/maps/003958a7206c41e1bfca3cb1d578058f/explore?location=47.541586%2C-81.299582%2C6.00))
+
+    -   [Woodland Caribou, Boreal population (Rangifer tarandus caribou)](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/recovery-strategies/woodland-caribou-boreal-2020.html) ECCC
+
+-   Ecological restoration ([Currie et al. 2023](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.12924)).
+
+-   Forest change, forest extent, drives, and fire alerts ([Canada- Global Forest Watch](https://www.globalforestwatch.org/dashboards/country/CAN/?category=undefined)).
+
+-   Carbon storage ([Harris et al. 2021](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2437)).
+
+-   [Canada watersheds reports](https://watershedreports.wwf.ca/?_ga=2.233906460.360523553.1693417788-577954010.1692312458#canada/by/threat-overall/profile).
+
+-   Wetlands: ([ECCC 2016](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/extent-wetlands.html); [Ontario](https://geohub.lio.gov.on.ca/datasets/mnrf::wetlands/explore?location=48.212505%2C-84.498000%2C4.84), [Wulder et al. 2018](https://www.mdpi.com/2072-4292/10/10/1623#)).
+
+-   Peatlands ([WCS](https://storymaps.arcgis.com/stories/19d24f59487b46f6a011dba140eddbe7)).
+
+-   Free-flowing rivers ([Grill et al. 2019](https://www.nature.com/articles/s41586-019-1111-9); for Canada see this, [WWF](https://wwf.ca/habitat/freshwater/free-flowing-rivers/)).
+
+-   AI and Biodiversity ([GPAI 2022](https://gpai.ai/projects/responsible-ai/environment/biodiversity-and-AI-opportunities-recommendations-for-action.pdf), [AI for Good](https://aiforgood.itu.int/new-ai-for-biodiversity-series-how-can-we-use-ai-to-monitor-biodiversity-and-support-conservation-actions/)) .
+
+-   [World Economic Forum](https://www.weforum.org/agenda/2023/05/ai-technology-international-biodiversity-day/), [LIFECLEF](https://link.springer.com/chapter/10.1007/978-3-031-42448-9_27), [Thompson 2023](https://www.nature.com/articles/d41586-023-03328-4#:~:text=As%20well%20as%20monitoring%20biodiversity,has%20led%20to%20biodiversity%20loss.)).
+
+Biodiversity, climate mitigation, and human communities ([Bateman et al. 2023](https://www.biorxiv.org/content/biorxiv/early/2023/03/27/2023.03.24.534176.full.pdf?%3Fcollection=)).
+:::
+
+::: {.callout-caution collapse="true"}
+## A topic for further discussion: analytical products from spatial prioritization
+
+Notes from Simo Ferrier:
+
+It's critically important to distinguish between two quite different types of analytical products here: 1) mapping of the relative priority of spatial units for implementation of a given action, to help inform decisions made within a highly messy, incremental decision-making process requiring consideration of lots of other ever-changing, context-specific scale-dependent values, factors and constraints which can't be effectively defined and quantified up-front; and 2) mapping of a discrete subset of spatial units selected to meet a set of targets, as efficiently and effectively as possible, through some form of optimisation or pseudo-optimisation. These two products play quite different roles in assessment and planning  - a difference discussed in [Ferrier & Drielsma (2010)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-4642.2010.00657.x). Mapping of relative priorities allows flexibility in incremental decision-making processes, by providing information on the potential value of all units in a region. This flexibility is largely lost in mapping of discrete areas proposed or selected for action. A given spatial unit is either included or excluded from the areas selected. Yet, because these selected areas together represent just one of many possible solutions which could have achieved a similar biodiversity outcome for the region, the potential contribution that an excluded unit could actually make to achieving this outcome is hidden from view. It is tempting to interpret the different colours on a Zonation map as conveying relative levels of priority for action. But these colours instead represent the order in which spatial units have been selected to generate a single optimal solution for the region and set of targets concerned -- i.e. they represent nested subsets of this single solution. This would be appropriate if the relevant planning process will allow this solution to be implemented in a highly top-down deterministic manner, but far less appropriate for processes that operate in a messier incremental manner, and therefore require greater flexibility, and greater consideration of other values and factors, in decision-making. 
+:::
+
+<a href="#top">Back to top</a>
+
+## Tools
+
+There are quantitative approaches and associated optimization tools used to identify spatial conservation priorities: minimum-set problem and maximal-coverage problem ([Moilanen et al. 2009](https://eprints.qut.edu.au/216560/), [McIntosh et al. 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102016-060902), [Alagador & Cerdeira 2020](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13455)). 
+
+::: {.callout-note collapse="true"}
+## Marxan
+
+Marxan software is the most widely used software in protected area planning ([Watts et al. 2009](https://www.sciencedirect.com/science/article/abs/pii/S1364815209001418), [Delavenne et al. 2012](https://academic.oup.com/icesjms/article/69/1/75/672823), [Gallo et al. 2020](https://www.mdpi.com/2073-445X/9/11/444), [Watts et al. 2020](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/cobi.13681), [Watts et al. 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8419856/)). It solves the minimum-set problem, which is to achieve conservation targets (e.g., protect 20% of each habitat type) while minimizing the resources expended (Ball et al., 2009). To achieve this, it uses an algorithm to minimize an objective function with the following objectives: achieve the conservation targets, minimize the overall cost, and achieve a specified degree of spatial compactness.
+:::
+
+::: {.callout-note collapse="true"}
+## Zonation
+
+Zonation software ([Moilanen et al. 2009](https://academic.oup.com/book/53408/chapter-abstract/422090432?redirectedFrom=fulltext), [Moilanen et al. 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13819#:~:text=Spatial%20(conservation)%20prioritization%20integrates%20data,impact%20avoidance%20outside%20protected%20areas.)) is also commonly used for protected area planning ([Delavenne et al., 2012](https://academic.oup.com/icesjms/article/69/1/75/672823), [Leathwick et al. 2008](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/j.1755-263X.2008.00012.x)). It is used to solve the maximal coverage problem, as opposed to the minimum-set problem that Marxan solves. The maximal coverage problem aims to maximize the biodiversity benefit for a fixed budget ([Moilanen et al. 2009](https://eprints.qut.edu.au/216560/)).
+
+Zonation produces a complementarity-based and balanced ranking of conservation priority over the entire landscape ([Moilanen et al. 2005](https://royalsocietypublishing.org/doi/10.1098/rspb.2005.3164)), rather than satisfying specific targets at minimum cost ([Moilanen et al. 2005](https://royalsocietypublishing.org/doi/10.1098/rspb.2005.3164), [Moilanen et al. 2009](https://academic.oup.com/book/53408/chapter-abstract/422090432?redirectedFrom=fulltext),  [Moilanen et al. 2021](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13819), [Moilanen et al. 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13819)). The priority ranking is produced by iteratively removing the grid cell or planning unit that leads to smallest aggregate loss of conservation value, while accounting for total and remaining distributions of features, weights given to features, and feature-specific connectivity. Least valuable cells (e.g. a few common species occurring) are removed first, while the most important cells for biodiversity (e.g. high species richness and species occurrence) are kept till the end. These calculations are illustrated in the table on the next page.
+
+Zonation has been used to identify priority areas for multiple ecosystem services [(Chan et al. 2011)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024378), biodiversity ([Albuquerque & Beier 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119905)), and connectivity ([Kukkala & Moilanen 2017](https://link.springer.com/article/10.1007/s10980-016-0446-y), [Albert et al. 2027](https://mvellend.recherche.usherbrooke.ca/2017_ConsBiol_Albert_etal.pdf)). Other studies have used Marxan, as a first step, to identify priority areas under multiple scenarios, and then the InVEST tool to estimate the conservation cost of these priority areas ([Zhang and Li 2022](https://www.researchgate.net/publication/365072697_Identifying_priority_areas_for_biodiversity_conservation_based_on_Marxan_and_InVEST_model)).
+
+\
+If used appropriately, Zonation and Marxan often deliver similar spatially explicit priorities for protected areas ([Delavenne et al. 2012](https://academic.oup.com/icesjms/article/69/1/75/672823)). Although these tools originally did not account for uncertainty, both have now been updated to explicitly include probabilistic information concerning occurrence, as well as other types of uncertainty ([Klein et al. 2013](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12005), [Moilanen et al. 2006](https://www.sciencedirect.com/science/article/abs/pii/S0304380006003127), [Tulloch et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S0006320713000700), [Srikrishnan et al. 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021EF002644)).
+:::
+
+::: {.callout-note collapse="true"}
+## CAPTAIN
+
+Conservation area prioritization through artificial intelligence ([CAPTAIN](https://www.captain-project.net/), [Silvestro et al. 2022](https://www.nature.com/articles/s41893-022-00851-6)) is a tool to optimize biodiversity protection through AI and "optimizes a conservation policy based on static or dynamic biodiversity monitoring towards user-defined targets (such as minimizing species loss) and within the constraints of a limited financial budget, and used it to explore, through simulations and empirical analyses, multiple previously identified trade-offs in real-world conservation and to evaluate the impact of data gathering on specific outcomes" ([Silvestro et al. 2022](https://www.nature.com/articles/s41893-022-00851-6)). ML and its subset Artificial Neural Networks (ANN) have been developed to overcome Marxan and similar methods limitations, that is they were designed to optimize a one-time policy (but see [Welch et al. 2019](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13417) on how they configure Marxan to operate dynamically overtime).
+:::
+
+::: {.callout-note collapse="true"}
+## Multi-objective linear programming problem
+
+The multi-objective linear programming problem is "a mathematical formulation for the Expand Protection multi-objective linear programming problem. The objective of this problem is to maximize the minimum summed conservation value of prioritized planning units, across the set of conservation objectives" ([Martin et al. 2022](https://www.nature.com/articles/s41598-022-15274-8#Tab1)).
+:::
+
++---------+-------+--------------+
+| Purpose | Tools | Supporting   |
+|         |       |              |
+|         |       | Organization |
++=========+=======+==============+
+|         |       |              |
++---------+-------+--------------+
+|         |       |              |
++---------+-------+--------------+
+
+## Partners
+
+[**This section is under construction!**]{style="color:red;"}
+
+## Datasets
+
+[**This section is under construction!**]{style="color:red;"}
+
++-------------+-----------------------+-------------+-----------+
+| Description | Repository and Layers | Extent,     | Reference |
+|             |                       |             |           |
+|             |                       | Format,     |           |
+|             |                       |             |           |
+|             |                       | Resolution, |           |
+|             |                       |             |           |
+|             |                       | Projection  |           |
++=============+=======================+=============+===========+
+|             |                       |             |           |
++-------------+-----------------------+-------------+-----------+
+
+## Guidance for action
+
+[**This section is under construction!**]{style="color:red;"}
+
+-   Identify spatial conservation priorities by weaving traditional knowledge and science with western science (e.g., [Noble et al. 2020](https://www.sciencedirect.com/science/article/abs/pii/S0006320720307679)).
+
+-   Create a working group of multiple partners representing all knowledge systems to identify priority areas for assessment in the HJBL for: 
+
+    -   multiple facets of biodiversity and expected shifts in species' distributions
+
+    -   trade-off and synergies among multiple ecosystem services 
+
+    -   physical features important in the region (e.g., lakes, rivers, basins, peatlands).
+:::

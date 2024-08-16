@@ -1,0 +1,77 @@
+---
+title: "BF-6: Lakes"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+css:  styles.css
+---
+
+::: panel-tabset
+## Introduction
+
+[**This section is under construction!**]{style="color:red;"}
+
+
+## Models
+
+[**This section is under construction!**]{style="color:red;"}
+
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+[**This section is under construction!**]{style="color:red;"}
+
+
+| Models/Approaches | Have they been used? | In Canada? |
+|-------------------|----------------------|------------|
+|                   |                      |            |
+|                   |                      |            |
+|                   |                      |            |
+
+## 
+
+## Tools
+
+[**This section is under construction!**]{style="color:red;"}
+
+
++---------+---------+--------------+
+| Purpose | Tools   | Supporting   |
+|         |         |              |
+|         |         | Organization |
++=========+=========+==============+
+|         |         |              |
++---------+---------+--------------+
+|         |         |              |
++---------+---------+--------------+
+
+## Partners
+
+[**This section is under construction!**]{style="color:red;"}
+
+## Datasets
+
+[**This section is under construction!**]{style="color:red;"}
+
++-------------+-----------------------+-------------+-------------+
+| Description | Repository and Layers | Extent,     | Reference   |
+|             |                       |             |             |
+|             |                       | Format,     |             |
+|             |                       |             |             |
+|             |                       | Resolution, |             |
+|             |                       |             |             |
+|             |                       | Projection  |             |
++=============+=======================+=============+=============+
+|             |                       |             |             |
++-------------+-----------------------+-------------+-------------+
+
+## Guidance for action
+
+[**This section is under construction!**]{style="color:red;"}
+
+:::

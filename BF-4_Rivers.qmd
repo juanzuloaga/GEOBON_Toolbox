@@ -7,12 +7,13 @@ format:
     link-external-newwindow: true
 toc: true
 editor: visual
+css:  styles.css
 ---
 
 ::: panel-tabset
 ## Introduction
 
-In construction!!
+[**This section is under construction!**]{style="color:red;"}
 
 ## Models
 
@@ -36,9 +37,11 @@ Integrating free-flowing rivers into global targets (e.g., Sustainable Developme
 
 Some Global and Canadian examples of model implementation.
 
++---------------------------+--------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
 | Models/Approaches         | Have they been used?                                                     | In Canada?                                                                                         |
-|---------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
++===========================+==========================================================================+====================================================================================================+
 | Connectivity Status Index | [Grill et al. (2019)](https://www.nature.com/articles/s41586-019-1111-9) | [Confluvio (2020)](https://www.confluvio.com/project/identifying-key-biodiversity-areas-in-canada) |
++---------------------------+--------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
 :::
 
 ::: {.callout-note collapse="true"}
@@ -146,14 +149,15 @@ Some Global and Canadian examples of model implementation.
 |                                                                                                                  |                                                     |
 |                                                                                                                  | [THYRSIS](https://gitlab.com/Oslandia/qgis/thyrsis) |
 +------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+<a href="#top">Back to top</a>
 
-In construction!!
+[**This section is under construction!**]{style="color:red;"}
 
 ## Datasets
 
-In construction!!
+[**This section is under construction!**]{style="color:red;"}
 
 ## Guidance for action
 
-In construction!!
+[**This section is under construction!**]{style="color:red;"}
 :::

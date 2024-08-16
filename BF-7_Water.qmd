@@ -1,0 +1,96 @@
+---
+title: "BF-7: Water"
+format:
+  html:
+    self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+css:  styles.css
+---
+
+::: panel-tabset
+## Introduction
+
+[**This section is under construction!**]{style="color:red;"}
+
+## Models
+
+::: {.callout-note collapse="true"}
+## Mapping surface water
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
++---------------------------------------------------------------------------+----------------------------------------------------------------------+---------------+
+| Models/Approaches                                                         | Have they been used?                                                 | In Canada?    |
++===========================================================================+======================================================================+===============+
+| High-resolution mapping of global surface water and its long-term changes | [Pekel et al. (2016)](https://www.nature.com/articles/nature20584)   |               |
+|                                                                           |                                                                      |               |
+|                                                                           | [Data access](https://global-surface-water.appspot.com/download)     |               |
++---------------------------------------------------------------------------+----------------------------------------------------------------------+---------------+
+| [Review Ontario GeoHub](https://geohub.lio.gov.on.ca/search?tags=water)   |                                                                      |               |
++---------------------------------------------------------------------------+----------------------------------------------------------------------+---------------+
+| Water cover                                                               | [Gulácsi & Kovács (2020)](https://www.mdpi.com/2072-4292/12/10/1614) |               |
++---------------------------------------------------------------------------+----------------------------------------------------------------------+---------------+
+:::
+
+::: {.callout-note collapse="true"}
+## Water quality
+
+Water quality is a key feature for biodiversity and human-well being in the HJBL. To assess water quality in that vast region, partners must use a combination of remote sensing techniques to evaluate various parameters such as suspended sediments (turbidity), chlorophyll, and temperature ([Ritchie et al. 2003](https://www.asprs.org/wp-content/uploads/pers/2003journal/june/2003_jun_695-704.pdf),[Loaiza et al. 2023](https://www.mdpi.com/2073-4441/15/14/2606), [Lehmann et al. 2023](https://www.nature.com/articles/s41597-023-01973-y), [Macleod et al. 2016](https://www.jlimnol.it/index.php/jlimnol/article/view/jlimnol.2016.1553/1292)); and field hydrobiological surveys.
+
+**Assessment of Status**
+
+Some Global and Canadian examples of model implementation.
+
+| Models/Approaches | Have they been used? | In Canada? |
+|-------------------|----------------------|------------|
+|                   |                      |            |
+:::
+
+| Models/Approaches | Have they been used? | In Canada? |
+|-------------------|----------------------|------------|
+|                   |                      |            |
+
+## Tools
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Purpose                                                                                                                                                                                                                                                                                                                                                         | Tools                                                                                                                        | Supporting                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                              |                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                              | Organization                                                                                                            |
++=================================================================================================================================================================================================================================================================================================================================================================+==============================================================================================================================+=========================================================================================================================+
+|                                                                                                                                                                                                                                                                                                                                                                 | [Water Observation from Space](https://www.digitalearthafrica.org/platform-resources/services/water-observations-from-space) | See [Digital Earth Africa](https://www.digitalearthafrica.org/why-digital-earth-africa/water-resources-and-flood-risks) |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| The European Commission's Joint Research Centre, UN Environment and Google are partnering to provide free and open data on water extent in a way that is policy-friendly, so that citizens and governments can easily assess what is actually happening to the world's natural resources, starting with data on water extent as a priority environmental issue. | [Global Surface Water Explorer](https://global-surface-water.appspot.com/#page-top)                                          | European Commission's Joint Research Centre, UN Environment and Google                                                  |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+
+<a href="#top">Back to top</a>
+
+
+## Partners
+
+[**This section is under construction!**]{style="color:red;"}
+
+## Datasets
+
+[**This section is under construction!**]{style="color:red;"}
+
++-------------+-----------------------+-------------+-------------+
+| Description | Repository and Layers | Extent,     | Reference   |
+|             |                       |             |             |
+|             |                       | Format,     |             |
+|             |                       |             |             |
+|             |                       | Resolution, |             |
+|             |                       |             |             |
+|             |                       | Projection  |             |
++=============+=======================+=============+=============+
+|             |                       |             |             |
++-------------+-----------------------+-------------+-------------+
+
+## Guidance for action
+
+[**This section is under construction!**]{style="color:red;"}
+:::
